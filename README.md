@@ -10,7 +10,7 @@ This project solves the challenge of **automated structure extraction from PDFs*
 
 ## 📁 Project Structure
 ```
-project_root/
+.
 │
 ├── data/
 │   └── sample_doc.pdf
@@ -19,6 +19,7 @@ project_root/
 ├── requirements.txt
 ├── Dockerfile
 ├── .dockerignore
+├── .gitignore
 └── approach_explanation.md
 ```
 
@@ -43,7 +44,10 @@ python structure_extractor.py
 ### Docker
 ```bash
 docker build -t pdf-structure .
+# On Linux/macOS
 docker run --rm -v $(pwd):/app pdf-structure
+# On Windows PowerShell
+docker run --rm -v ${PWD}:/app pdf-structure
 ```
 
 ## 📄 Notes
@@ -62,5 +66,6 @@ docker run --rm -v $(pwd):/app pdf-structure
 - [x] `output.json`
 - [x] `requirements.txt`
 - [x] `Dockerfile`
+- [x] `.dockerignore`
+- [x] `.gitignore`
 - [x] `approach_explanation.md`
-- [x] `README.md`
