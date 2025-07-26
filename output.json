@@ -1,2440 +1,4225 @@
 {
-  "title": "Unknown",
+  "title": "SAMPLE DOCUMENT",
   "outline": [
     {
-      "level": "H1",
-      "text": "[Citation Needed]",
+      "level": "H2",
+      "text": "SAMPLE DOCUMENT",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Define stories in different languages",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Story 1:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1. English",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Title:  The Little Rabbit and the Moon",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Once upon a time, a little rabbit dreamed of touching the moon. Every night, he jumped higher and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "higher, hoping to reach the glowing sky. One evening, he climbed a hill and stretched his paws toward the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "moonlight. Though he couldn’t reach it, he smiled, knowing he had tried his best. The moon, watching from",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "above, sent a gentle light to comfort him.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2. Hindi ( हिन्दी )",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Title:   छोटा   खरगोश   और   चााँद",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Story:   एक   समय   की   बात   है ,  एक   छोटा   खरगोश   चााँद   को   छू ने   का   सपना   देखता   था।   वह   हर   रात   ऊाँ चा   कू दता ,  आकाश   की",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "ओर।   एक   ददन   वह   एक   पहाडी   पर   चढा   और   चााँद   की   ओर   अपने   पंजे   फै लाए।   चााँद   तक   न   पहाँचने   पर   भी ,  वह   मुस्कराया",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "क्ोंदक   उसने   पूरी   कोदशश   की   थी।   चााँद   ने   उसे   अपनी   चांदनी   से   सहलाया।",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3. Arabic (ةيبرعلا)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Title:  رمقلاو ريغصلا بنرلأا",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ىلإ دعص ،يلايللا ىدحإ يف .ةئيضملا ءامسلا ىلإ لوصولل  ً ايلاع زفقي ناك ،ةليل لك .رمقلا سملي نأ ريغص بنرأ ملح ،نامزلا ميدق يف",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": ".رونلا وحن هيدي ّدمو لتلا ىلعأهركشيل هرونب رمقلا ءاضأ .هدهج لذب هنلأ اضرلاب رعش هنكل ،رمقلا ىلإ لصي مل هتلواحم ىلع.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4. Mandarin Chinese ( 中文  - Simplified)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Title:   小兔子和月亮",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Story:   很久以前，一只小兔子梦想着触摸月亮。每天晚上，它跳得越来越高，想要靠近天空中的光亮",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "。它跑到山 顶，试着用爪子触碰那银色的光芒。虽然他没能摸到月亮，但他感到骄傲。月亮温柔地照",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "在他身上，仿佛在微笑 。",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "5. Japanese ( 日本語 )",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Title:   小さなうさぎと月",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Story:   むかしむかし、小さなうさぎが月に触れることを夢見ていました。毎晩、彼はどんどん高く",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "ジャンプしました。ある晩、彼は高い丘に登って、空に手を伸ばしました。月に届かなかったけど",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "、心は温かくなりました。空の月は優しく彼を見守っていました。",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "6. Korean ( 한국어 )",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Title:   작은   토끼와   달",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Story:   옛날   옛적에 ,  한   작은   토끼는   달을   만지는   꿈을   꾸었어요 .  매일   밤 ,  하늘을   향해   점점   더   높이",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "뛰었답니다 .  어느   날 ,  그는   언덕   위에   올라가   달을   향해   손을   뻗었어요 .  달에   닿지는   못했지만 ,  그는",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "행복했어요 .  달은   조용히   빛나며   토끼를   따뜻하게   비춰주었어요 .",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "7. Russian (Русский)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Маленький кролик и луна",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Давным-давно маленький кролик мечтал прикоснуться к луне. Каждую ночь он прыгал всё выше",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "и выше. Однажды он забрался на высокий холм и протянул лапки к небу. Он не дотянулся, но",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "почувствовал, как свет луны обнимает его. Это было его маленькое чудо.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "8. Spanish (Español)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Title:  El conejito y la luna",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Había una vez un conejito que soñaba con tocar la luna. Cada noche saltaba más y más alto. Un día",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "subió a la colina más alta y extendió sus patas. Aunque no la alcanzó, sintió una luz cálida abrazarlo. La luna",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "sonrió, orgullosa de su valor.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "9. French (Français)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Le petit lapin et la lune",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Il était une fois un petit lapin qui rêvait de toucher la lune. Chaque nuit, il sautait de plus en plus haut.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Un soir, il monta sur une colline et tendit ses pattes vers le ciel. Il ne toucha pas la lune, mais ressentit une",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "douce chaleur. La lune brilla plus fort pour lui dire bravo.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "10. German (Deutsch)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Das kleine Kaninchen und der Mond",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Es war einmal ein kleines Kaninchen, das davon träumte, den Mond zu berühren. Jede Nacht sprang es",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "höher und höher. Eines Abends kletterte es auf einen Hügel und streckte seine Pfoten aus. Es berührte den",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Mond nicht, aber das Licht erfüllte sein Herz mit Freude. Der Mond schien heller als je zuvor.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "11. Portuguese (Português)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Title:  O coelhinho e a lua",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Era uma vez um coelhinho que sonhava em tocar a lua. Todas as noites, ele pulava cada vez mais alto.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Um dia, ele subiu uma montanha e tentou alcançá-la com suas patas. Mesmo sem conseguir, ele se sentiu feliz.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "A lua brilhou com carinho sobre ele.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "12. Tamil ( தமிழ் )",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Title:   சிறிய   முயலும்   நிலவும்",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ஒருகாலத்தில் ,  ஒரு   சிறிய   முயல்   நிலாவை   ததாட்டுப்   பார்க்க   ஆவைபட்டது .",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "ஒை்தைாரு   இரவும்   அது   மமமல   மமமல   பாய்ந்தது .  ஒரு   நாள்   அது   ஒரு   மவலமமல்   ஏறி",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "நிலாவின்    ஒளிக்குப்   பின்னால்   தனது   வககவள   நீ ட்டியது .  நிலா   எட்டவில்வல",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "என் றாலும் ,  அது   மகிழ்ை்சியவடந்தது .  நிலா   தமன்வமயாக   அதவன   நவனயை்",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "தைய்தது .",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "13. Telugu ( తెలుగు )",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Title:   చిన్న    కుందేలు   మరియు   చుంద్రుడు",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ఒకప్పు డు ,  చిన్న    కుందేలు   చుంద్రుని   తాకాలని   కలలు   కన్నన డు .  ద్రరతి   రాద్రతి ,  అది   ఎకు వ   ఎత్తుగా",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "దూకేది .  ఒక   రాద్రతి ,  అది   కుండపైకి   ఎకిు    చుంద్రుడిని   తాకేుంుక   తన్   చేత్తలను   చాచిుంది .",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "తాకలేకపోయిన్న ,  చుంద్రుడు   దీరుం   లుంటి   వెలుగును   అుందిుంచాడు .  కుందేలు   సుంతోషుంగా   న్వ్వ ుంది .",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "14. Bengali ( বাাংলা )",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Title:   ছ োট   খরগ োশ   ও   চোাঁদ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Story:   এক   সময় ,  এক   ছ োট   খরগ োশ   চোাঁদ   ছ োাঁয়োর   স্বপ্ন   ছদখত।   প্রতত   রোগত   ছস   আরও   উাঁচুগত   লোফোত।   একতদন   ছস",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "একটট   পোহোগ়ে   উঠল   এবং   আকোগশর   তদগক   হোত   বো়েোল।   ছস   চোাঁদ    ুাঁগত   পোগরতন ,  তকন্তু   আগলোর   ছ োাঁয়োয়   মন   ভগর",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ছ ল।   চোাঁদ   তমটতমট   কগর   আগলো    ়েোল।",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "15. Thai ( ไทย )",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Title:   กระต่ายน้อยกับพระจันทร ์",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Story:   กาลครั ้ งหนึ ่ งนานมาแล้ว   กระต่ายน้อยตัวหนึ ่ งฝันอยากจะสัมผัสพระจันทร ์   เขากระโดดสูงขึ ้ นทุกคืน",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "วันหนึ ่ งเขาปีนขึ ้ นไปบนภูเขาสูงและยื ่ นมือไปยังดวงจันทร ์   แม้เขาเอื ้ อมไม่ถึง   แต่แสงจันทร ์ก็โอบกอดเขาอย่างอ่อนโยน",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "16. Greek (Ελληνικά)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Το μικρό κουνέλι και το φεγγάρι",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Μια φορά κι έναν καιρό, ένα μικρό κουνέλι ονειρευόταν να αγγίξει το φεγγάρι. Κάθε βράδυ, πήδαγε",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "όλο και πιο ψηλά. Μια νύχτα ανέβηκε σε έναν λόφο και άπλωσε τα χέρια του προς τον ουρανό. Δεν το έφτασε,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "αλλά ένιωσε φως να τον ζεσταίνει. Το φεγγάρι έλαμψε πιο δυνατά για χάρη του.",
       "page": 3
     },
     {
       "level": "H2",
-      "text": "The Best of Wikipedia’s Worst Writing",
+      "text": "Story 2:",
       "page": 3
     },
     {
-      "level": "H2",
-      "text": "Conor Lastowka and Josh Fruhlinger",
+      "level": "H3",
+      "text": "Title :  The Forest of Dreams",
       "page": 3
     },
     {
-      "level": "H2",
-      "text": "Boring Legal Fine Print",
+      "level": "H3",
+      "text": "Story : Deep in a magical forest where the trees whispered secrets, lived a curious squirrel named Nino. Nino",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "loved collecting shining pebbles and hiding them in a hollow tree. One day, he found a pebble that sparkled like",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "the stars. That night, he dreamed he flew over the forest, guided by the glowing pebble. In his dream, animals",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "from all corners of the woods gathered to celebrate his discovery. When he woke up, he still had the pebble —",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "and the forest felt warmer, happier. From that day, Nino knew his dream had shared real magic with them all.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Title :  सपनों   का   जंगल",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Story :  एक   जादुई   जंगल   में ,  जहााँ   पेड   आपस   में   बातें   करते   थे ,  नीनो   नाम   का   एक   दजज्ञासु   दगलहरी   रहता   था।   नीनो   को",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "चमकते   पत्थर   इकट्ठा   करना   बहत   पसंद   था।   एक   ददन   उसे   एक   पत्थर   दमला   जो   तारों   की   तरह   चमकता   था।   उस   रात   उसने",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "सपना   देखा   दक   वह   उस   पत्थर   की   रौशनी   में   उड   रहा   है।   जंगल   के    सारे   जानवर   उसके    आस - पास   इकट्ठा   हए   और   जश्न",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "मनाया।   सुबह   जब   वह   उठा ,  वह   पत्थर   उसके    पास   ही   था।   उस   ददन   से   जंगल   और   भी   जादुई   हो   गया।",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Title :  غغغغ غغغغغغغ",
       "page": 4
     },
     {
       "level": "H3",
-      "text": "This book is dedicated to every person who wrote an",
+      "text": "Story :",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "راجشلأا ثدحتت ةيرحس ةباغ يف .ةفوجم ةرجش يف اهئبخيو ةعملالا ىصحلا عمج بحي ونين ناك .ونين ىعدُي يلوضف باجنس شاع ،اهيف",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "يطي هنأب ملح ،ةليللا كلت يف .موجنلا لثم عملت ًةاصح دجو ،مايلأا نم ٍموي يف تاناويحلا عيمج تعمتجا .ةجهوتملا ةاصحلا هعبتتو ةباغلا قوف ر",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "تناك ،ظقيتسا امدنعو .هفاشتكاب لفتحتل ةباغلا يف رشتنت ةداعسلاب رعشي ناكو ،هعم تلاز ام ةاصحلا.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Title :  梦想之林",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Story :  在一个神奇的森林里， 树木会说话，小松鼠尼诺住在这里。他喜欢收集闪亮的石头，藏在空心树",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "里。有一天，他发现了一块像星星一样发光的石头。那晚，他梦见自己在天空中飞翔，森林里的动物",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "都为他欢呼。醒来时，那块石头还在他手中，而森林也变得更加温暖美丽 。",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Title :  夢の森",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Story :  木々がささやく不思議な森に、ニノというリスが住んでいました。彼は光る小石を集めるのが",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "大好きで、空洞の木に隠していました。ある日、星のように輝く石を見つけました。その夜、ニノ",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "はその石の光に導かれて空を飛ぶ夢を見ました。森中の動物たちが彼のまわりで踊って祝いました",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "。朝、石はまだ彼のそばにあり、森は本当に魔法のように感じられました。",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Title :  꿈의   숲",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Story :  나무들이   속삭이는   마법의   숲   속에   니노라는   다람쥐가   살았어요 .  그는   반짝이는   조약돌을   모으는",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "것을   좋아했어요 .  어느   날 ,  별빛처럼   반짝이는   돌   하나를   발견했어요 .  그날   밤 ,  그는   꿈에서   하늘을   날며",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "동물들과   축제를   즐겼어요 .  깨어나   보니   그   돌은   여전히   그의   곁에   있었고 ,  숲은   더   따뜻하고   특별한",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "느낌이   들었어요 .",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Title :  Лес Мечты",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Story : В волшебном лесу, где деревья шепчутся друг с другом, жил любопытный белочка по имени",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Нино. Он обожал собирать блестящие камешки. Однажды он нашёл камешек, сверкавший как звезда. В",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "ту ночь он приснился себе летающим над лесом. Все животные леса собрались, чтобы отпраздновать",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "его находку. Утром он проснулся с камешком рядом и знал: магия настоящая.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Title :  El Bosque de los Sueños",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Story : En un bosque mágico donde los árboles susurraban, vivía una ardilla llamada Nino. Le encantaba",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "recolectar piedras brillantes. Un día encontró una que brillaba como una estrella. Aquella noche, soñó que",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "volaba sobre el bosque, guiado por su piedra mágica. Todos los animales celebraron con él. Al despertar, la",
       "page": 5
     },
     {
       "level": "H3",
-      "text": "entry that appears in it.",
+      "text": "piedra seguía allí, y el bosque parecía lleno de alegría.",
       "page": 5
     },
     {
       "level": "H3",
-      "text": "May your citations always be needed.",
+      "text": "Title :  La Forêt des Rêves",
       "page": 5
     },
     {
       "level": "H3",
-      "text": "6",
+      "text": "Story : Dans une forêt enchantée où les arbres murmuraient, vivait un écureuil curieux nommé Nino. Il adorait",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "collectionner des pierres brillantes. Un jour, il trouva une pierre qui scintillait comme une étoile. Cette nuit-là, il",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "rêva qu’il volait dans le ciel. À son réveil, la pierre brillait encore et la forêt semblait plus vivante que jamais.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Title :  Der Wald der Träume",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Story : In einem Zauberwald, in dem die Bäume flüsterten, lebte ein neugieriges Eichhörnchen namens Nino. Er",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "sammelte glänzende Steine und bewahrte sie in einem hohlen Baum auf. Eines Tages fand er einen besonders",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "leuchtenden Stein. In der Nacht träumte er, dass er über den Wald flog. Als er aufwachte, war der Stein noch da",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "– und der Wald leuchtete mit ihm.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Title :  A Floresta dos Sonhos",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Story : Em uma floresta mágica, onde as árvores sussurravam, vivia um esquilo curioso chamado Nino. Ele",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "amava coletar pedras brilhantes. Certo dia, encontrou uma que parecia uma estrela. Naquela noite, sonhou que",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "voava pelo céu com a pedra brilhando em suas mãos. Acordou com um sorriso, e o bosque parecia mais alegre",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "do que nunca.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Title :  கனவுகள்   நிவறந்த   காட்டு",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Story :  மரங்கள்   மபசும்   ஒரு   மாயக்   காடில் ,  நின் மனா   என் ற   சிறிய   அணில்   ைாழ்ந்தான்  .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "ஒளிரும்   கற்கவள   மைகரித்து   ஒரு   ைவளந்த   மரத்திற்குள்   வைத்திருந்தான்  .  ஒரு   நாள் ,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "விண் மீன்    மபால்   ஒளிரும்   கல்   கிவடத்தது .  அந்த   இரவில்   கனவில் ,  ைானில்   பறந்தான்  .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "விழித்தமபாதும்   அந்தக்   கல்   அருகில்   இருந்தது ,  காடும்   மாறியது .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Title :  కలల   అడవ్",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Story :  చెట్లతో   మాట్లు   చెప్పు    మాయల   అడవ్లో   నినో   అనే   కుందేలు   జీవ్ుంచేవాడు .  అతనికి   మెరిసే",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "రాళ్లను   సేకరిుంచడుం   ఇషటుం .  ఒక   రోజు   అతను   ఒక   న్క్షద్రతుం   లుంటి   రాయి   కనుగొన్నన డు .  ఆ   రాద్రతి ,  ఆ   రాయి",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "కాుంతితో   గాలోల    ఎగిరే   కలలుగా   మారిుంది .  నిద్రరలేచిన్ప్పు డు   ఆ   రాయి   రగ్ గరే   ఉుంది ,  అడవ్   అుంతా",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "ఆన్ుంరుంగా   కనిపుంచిుంది .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Title :  স্বগপ্নর   বন",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Story :  এক   জোদুকরী   জঙ্গগল ,  ছেখোগন    োগ রো   তফসতফস   কগর   কথো   বগল ,  বোস   করত   তনগনো   নোগমর   এক   ছ োট",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "কোঠতব়েোতল।   ছস   চকচগক   পোথর   সংগ্রহ   করত।   একতদন   ছস   একটট   উজ্জ্বল   তোরো   মত   পোথর   ছপল।   ছসতদন   রোগত",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ছস   স্বগপ্ন   উগ়ে   ছ ল   বনজুগ়ে।   সকোগলর   আগলোয়   ছস   বুঝল ,  তোর   স্বপ্ন   ছেন   বোস্তব   হগয়ত ল।",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Title :  ป่าของความฝัน",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Story :  ในป่าเวทมนตร ์ที ่ ต้นไม้พูดได้   มีกระรอกตัวหนึ ่ งชื ่ อ   นิโน่   เขารักการเก็บก้อนหินที ่ ส่องแสง",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "วันหนึ ่ งเขาพบหินที ่ เปล่งประกายราวดวงดาว   คืนนั ้ นเขาฝันว่าเขาบินเหนือป่าและสัตว์ทุกตัวร่วมฉลองกับเขา   เมื ่ อตื ่ นขึ ้ น",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "หินยังคงอยู่   และป่าก็สดใสขึ ้ น",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Title :  Το Δάσος των Ονείρων",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Story : Σε ένα μαγικό δάσος, όπου τα δέντρα ψιθύριζαν, ζούσε ένας σκίουρος που τον έλεγαν Νίνο. Του άρεσε",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "να συλλέγει λαμπερά πετραδάκια. Μια μέρα βρήκε ένα που έλαμπε σαν άστρο. Τη νύχτα ονειρεύτηκε ότι",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "πετούσε στον ουρανό. Όταν ξύπνησε, η πέτρα ήταν ακόμα εκεί — και το δάσος φαινόταν πιο φωτεινό.",
       "page": 6
     },
     {
       "level": "H2",
-      "text": "Introduction",
+      "text": "Story 3 :",
       "page": 6
     },
     {
       "level": "H3",
-      "text": "7",
+      "text": "Title:  The Brave Little Star",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Story:  In the darkest corner of the sky, a tiny star wanted to shine brighter than all others. Though the clouds",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "hid her often, she kept sparkling with courage. One night, during a storm, she lit up the path for a lost bird.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "From that day, she became the Star of Hope.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Title:   साहसी   नन्हा   तारा",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Story:   आकाश   के    सबसे   अंधेरे   कोने   में ,  एक   नन्हा   तारा   सबसे   तेज़   चमकना   चाहता   था।   बादल   उसे   दछपा   देते   थे ,  दफर   भी",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "वह   दहम्मत   से   चमकता   रहा।   एक   तूफानी   रात ,  उसने   एक   खोए   हए   पक्षी   के    दलए   रास्ता   रोशन   दकया।   उसी   ददन   से   वह   आशा",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "का   तारा   बन   गया।",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Title:  عاجشلا ريغصلا مجنلا",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Story:  متسا ،هيفخت تناك مويغلا نأ مغر .موجنلا عيمج نم رثكأ عملي نأ ريغص مجن دارأ ،ءامسلا يف نكر ملظأ يف يف .ةعاجشب قلأتلا يف ر",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "لملأا مجن حبصأ مويلا كلذ ذنمو .هئات رئاطل قيرطلا ءاضأ ،ةفصاعلا يلايللا ىدحإ.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Title:   勇敢的小星星",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Story:   在夜空最黑暗的角落里，一 颗小星星渴望比所有星星都更闪亮。虽然常被乌云遮住，它依然勇",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "敢地闪耀。有一天夜晚，它为一只迷路的小鸟照亮了路。从那时起，它成为希望之星 。",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Title:   勇敢な小さな星",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Story:   空の一番暗い隅で、小さな星が誰よりも明るく輝きたいと思っていました。雲に隠れても、",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "彼女は勇敢に光り続けました。嵐の夜、迷子の鳥のために道を照らしました。その日から彼女は「",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "希望の星」と呼ばれるようになりました。",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Title:   용감한   작은   별",
       "page": 7
     },
     {
       "level": "H3",
-      "text": "8",
+      "text": "Story:   하늘의   가장   어두운   구석에서 ,  작은   별   하나가   누구보다   밝게   빛나고   싶어   했어요 .  구름이   자주",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "가렸지만 ,  별은   용감하게   빛났어요 .  어느   날   밤 ,  폭풍   속에서   길   잃은   새를   위해   길을   비춰   주었답니다 .",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "그날부터   희망의   별이   되었어요 .",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Храбрая маленькая звезда",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Story:  В самом тёмном углу неба маленькая звезда хотела сиять ярче всех. Несмотря на облака, она",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "мужественно сверкала. Однажды ночью, во время шторма, она осветила путь заблудившейся птице. С",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "тех пор её называли Звездой Надежды.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Title:  La pequeña estrella valiente",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Story:  En el rincón más oscuro del cielo, una pequeña estrella deseaba brillar más que todas. Aunque las nubes",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "la cubrían, ella seguía brillando con valentía. Una noche de tormenta, iluminó el camino de un pájaro perdido.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Desde entonces, fue la Estrella de la Esperanza.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Title:  La petite étoile courageuse",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Dans le coin le plus sombre du ciel, une petite étoile voulait briller plus fort que toutes les autres. Même",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "lorsque les nuages la cachaient, elle scintillait avec courage. Une nuit d’orage, elle éclaira la route d’un oiseau",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "perdu. Depuis, elle est devenue l’Étoile de l’Espoir.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Der mutige kleine Stern",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Story:  In der dunkelsten Ecke des Himmels wollte ein kleiner Stern heller leuchten als alle anderen. Auch",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "wenn die Wolken ihn oft verdeckten, funkelte er mutig weiter. In einer stürmischen Nacht zeigte er einem",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "verlorenen Vogel den Weg. Seitdem nannte man ihn den Stern der Hoffnung.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Title:  A pequena estrela corajosa",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Story:  No canto mais escuro do céu, uma pequena estrela queria brilhar mais que todas. Mesmo quando as",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "nuvens a escondiam, ela continuava brilhando com coragem. Numa noite de tempestade, iluminou o caminho",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "de um passarinho perdido. Desde então, foi chamada de Estrela da Esperança.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Title:   வதரியமான   சிறிய   நட்ைத்திரம்",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ைானத்தின்    மிகுந்த   இருண் ட   பகுதியில் ,  ஒரு   சிறிய   நட்ைத்திரம்   எல்லா",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "நட்ைத்திரங்கவளயும்   விட   பிரகாசிக்க   விவரந்தது .  மமகங்கள்   அவத   மவறத்தாலும் ,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "அது   வதரியமாக   ஒளிர்ந்தது .  ஒரு   புயலான   இரவில் ,  ஒரு   தைறித்த   பறவைக்கு",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "ைழிகாட்டியது .  அதன்    பின்  ,  அது   நம்பிக்வகயின்    நட்ைத்திரம்   என் றவழக்கப்பட்டது .",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Title:   ధైర్య వుంత్తడైన్   చిన్న    న్క్షద్రతుం",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ఆకాశుంలోని   అుంధకార్మైన్   మూలలో ,  ఒక   చిన్న    న్క్షద్రతుం   అుంరరికుంటే   ఎకు వగా   మెర్యాలని",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "కలగ్న్న ది .  మేఘాలు   దానిని   కపు పెడుత్తన్నన  ,  అది   ధైర్య ుంగా   మెరుస్తు నే   ఉుంది .  ఒక   పడుగు   రాద్రతి ,  ఒక",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "తపు పోయిన్   రక్షికి   దారి   చూపుంది .  ఆ   రోజు   నుుండి   అది   ఆశ   యొకు    న్క్షద్రతుం   అయిుంది .",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Title:   সোহসী   ছ োট   তোরো",
       "page": 8
     },
     {
       "level": "H3",
-      "text": "9",
+      "text": "Story:   আকোগশর   সবগচগয়   অন্ধকোর   ছকোগে   একটট   ছ োট   তোরো   সবগচগয়   উজ্জ্বল   হগত   ছচগয়ত ল।   ছমগেরো   তোগক",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "ছেগক   রোখগলও ,  ছস   সোহগসর   সগঙ্গ   ঝলমল   করত।   এক   রোগত ,  একটট   পথভ্রষ্ট   পোতখর   পথ   ছদতখগয়ত ল।   ছসই   ছথগক",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "তোগক   ডোকো   হগতো  ‘ আশোর   তোরো ’ ।",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Title:   ดาวน้อยผู้กล้าหาญ",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ในมุมที ่ มืดที ่ สุดของท้องฟ้ า   ดาวดวงเล็กอยากจะเปล่งแสงเจิดจ้ากว่าดวงใดๆ   แม้เมฆจะบังเธอไว้",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "เธอก็ยังส่องแสงอย่างกล้าหาญ   คืนหนึ ่ งระหว่างพายุ   เธอส่องทางให้กับนกที ่ หลงทาง   และกลายเป็นดาวแห่งความหวัง",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Το γενναίο μικρό αστέρι",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Στην πιο σκοτεινή γωνιά του ουρανού, ένα μικρό αστέρι ήθελε να λάμψει πιο δυνατά από όλα. Παρόλο",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "που τα σύννεφα το έκρυβαν, συνέχισε να λάμπει με θάρρος. Μια νύχτα με καταιγίδα, φώτισε το δρόμο για ένα",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "χαμένο πουλί. Από τότε ονομάστηκε το Άστρο της Ελπίδας.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Story 4 :",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Title:  The Ocean Whisperer",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Far away, in a quiet village by the sea, lived a girl named Lila who could hear the ocean speak. Every",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "morning, she sat by the shore and listened closely. One day, the waves whispered of a dolphin in trouble. Lila",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "followed the sounds and helped free the dolphin from a net. The ocean thanked her with a gentle breeze and",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "sparkling shells.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Title:   समुद्र   की   कानाफू सी",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Story:   एक   शांत   समुद्री   गााँव   में ,  लीला   नाम   की   एक   लडकी   रहती   थी   दजसे   समुद्र   की   आवाज़ें   सुनाई   देती   थीं।   हर   सुबह   वह",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "दकनारे   बैठती   और   ध्यान   से   सुनती।   एक   ददन   लहरों   ने   एक   फं सी   हई   डॉल्फिन   की   बात   कही।   लीला   ने   ध्वदन   का   पीछा   दकया",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "और   उसे   जाल   से   बचाया।   समुद्र   ने   उसे   शीतल   हवा   और   चमकते   शंखों   से   धन्यवाद   ददया।",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Title:  طيحملا تاسمه",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Story:   .ةيانعب عمتستو ئطاشلا ىلع سلجت تناك ،حابص لك .طيحملا توص عامس عيطتست لايل ىعدُت ةاتف تشاع ،رحبلا بناجب ةئداه ةيرق يف",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "ىلع نيفلدلا تدعاسو تاوصلأا لايل تعبت .قزأم يف نيفلد نع جاوملأا تسمه ،مايلأا دحأ يف فيطل ميسنب طيحملا اهركش .ةكبش نم ررحتلا",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "ةعملا فادصأو.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Title:   海洋的低 语者",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Story:   在一个宁静的海 边小村庄，住着一个叫莉拉的女孩，她能听懂海洋说话。每天早上，她坐在海",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "边静静聆听。一天，海浪低语着一只困在渔网中的海豚。莉拉跟着声音找到了它，并解救了它。大海",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "送来微风和闪亮的贝壳表示感谢 。",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Title:   海のささやき",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Story:   海辺の静かな村に、リラという少女が住んでいました。彼女は海の声を聞くことができまし",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "た。毎朝、海辺に座って耳を澄ませました。ある日、波が困っているイルカのことをささやきまし",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "た。リラは声に従って行き、イルカを網から救いました。海はそよ風と輝く貝殻で感謝を伝えまし",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "た。",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Title:   바다의   속삭임",
       "page": 9
     },
     {
       "level": "H3",
-      "text": "10",
+      "text": "Story:   조용한   바닷가   마을에   릴라라는   소녀가   살고   있었어요 .  그녀는   바다의   목소리를   들을   수",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "있었어요 .  매일   아침 ,  그녀는   해변에   앉아   조용히   귀를   기울였어요 .  어느   날 ,  파도가   위험에   처한",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "돌고래를   말했어요 .  릴라는   그   소리를   따라가   돌고래를   구했어요 .  바다는   바람과   반짝이는   조개로",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "감사를   전했어요 .",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Шёпот океана",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Story:  В тихой деревне у моря жила девочка по имени Лила, которая могла слышать, как говорит океан.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Каждое утро она садилась у берега и слушала. Однажды волны прошептали о дельфине, попавшем в",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "беду. Лила пошла на звук и освободила его из сети. Океан отблагодарил её тёплым бризом и",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "блестящими ракушками.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Title:  El susurro del océano",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Story:  En un tranquilo pueblo junto al mar, vivía una niña llamada Lila que podía oír hablar al océano. Cada",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "mañana, se sentaba en la orilla y escuchaba atentamente. Un día, las olas le contaron sobre un delfín en",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "problemas. Lila siguió el sonido y lo liberó de una red. El océano le agradeció con una suave brisa y conchas",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "brillantes.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Title:  La voix de l’océan",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Dans un paisible village au bord de la mer, vivait une fille nommée Lila qui pouvait entendre parler",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "l’océan. Chaque matin, elle s’asseyait sur le rivage et écoutait attentivement. Un jour, les vagues lui",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "murmurèrent qu’un dauphin était en danger. Lila suivit le son et libéra le dauphin d’un filet. L’océan la",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "remercia avec une brise douce et des coquillages brillants.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Die Flüsterstimme des Ozeans",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Story:  In einem stillen Dorf am Meer lebte ein Mädchen namens Lila, das den Ozean sprechen hören konnte.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Jeden Morgen saß sie am Ufer und lauschte. Eines Tages flüsterten die Wellen von einem Delfin in Not. Lila",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "folgte den Stimmen und half, ihn aus einem Netz zu befreien. Der Ozean dankte ihr mit einer sanften Brise und",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "funkelnden Muscheln.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Title:  O Sussurro do Oceano",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Em uma vila tranquila à beira-mar, vivia uma menina chamada Lila que conseguia ouvir o oceano falar.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Todas as manhãs, ela se sentava na praia para escutar. Um dia, as ondas sussurraram sobre um golfinho em",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "apuros. Lila seguiu os sons e o libertou de uma rede. O oceano agradeceu com uma brisa suave e conchas",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "brilhantes.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Title:   கடலின்    ைத்தம்",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Story:   கடற்கவரயின்    ஓரமுள்ள   அவமதியான   கிராமத்தில் ,  லீலா   என் ற   சிறுமி",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "இருந்தாள் .  அைளால்   கடலின்    குரவல   மகட்க   முடிந்தது .  ஒை்தைாரு   காவலயும்",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "கடற்கவரயில்   அமர்ந்து   அைள்   கைனமாக   மகட்டாள் .  ஒரு   நாள் ,  அவலகள்   ஒரு",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "நட்டத்தில்   சிக்கிய   டால்ஃபிவனப்   பற்றிை்   தைான்னது .  லீலா   அதன்    பக்கமாக   தைன்று",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "அதவன   விடுவித்தாள் .  கடல்   அைளுக்கு   தமன்வமயான   காற்றும்   மின்னும்",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "சிப்பிகளும்   அளித்து   நன் றி   ததரிவித்தது .",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Title:   సముద్రరప్ప   మర్మ సవ ర్ుం",
       "page": 10
     },
     {
       "level": "H3",
-      "text": "11",
+      "text": "Story:   సముద్రర   తీరాన్   ఓ   శుంతమైన్   ద్రగాముంలో   లీల   అనే   చిన్నన రి   ఉుండేది .  ఆమె   సముద్రరుం",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "మాట్లల డత్తుంరని   వ్న్గ్లిగేది .  ద్రరతి   ఉరయుం   ఆమె   తీర్ుం   రగ్ గర్   కూరుు ని   ద్రశరధగా   వ్నేది .  ఒక   రోజు   అలలు",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "ఒక   కషటుంలో   ఉన్న    డాలిి న్   గురిుంచి   చెబాయి .  లీల   ఆ   శబ్దుం   వెుంబ్డి   వెళ్లల   దానిని   వల   నుుండి   వ్డురల",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "చేసుంది .  సముద్రరుం   కృతజ్ఞతగా   శీతల   గాలి   మరియు   మెరిసే   షెల్స్    ఇచిు ుంది .",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Title:   সমুগের   কোগন   কোগন",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Story:   সমুগের   ধোগর   এক   শোন্ত   গ্রোগম   লীলো   নোগম   এক   ছমগয়   থোকত।   ছস   সমুগের   আওয়োজ   শুনগত   ছপত।",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "প্রতততদন   সকোগল   ছস   তীগর   বগস   মন   তদগয়   ছশোগন।   একতদন ,  ছেউ   বলল   এক   তবপগদ   প়েো   ডলতফগনর   কথো।   লীলো",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "শব্দ   অনুসরে   কগর   ত গয়   ডলতফনগক   জোল   ছথগক   মুক্ত   করল।   সমুে   তোগক   হোলকো   বোতোস   আর   ঝকঝগক   শোাঁখ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "তদগয়   কৃ তজ্ঞতো   জোনোল।",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Title:   เสียงกระซิบของทะเล",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ในหมู่บ้านเงียบสงบริมทะเล   มีเด็กหญิงชื ่ อ   ลีลา   ที ่ สามารถได้ยินเสียงของทะเล   ทุกเช้าเธอจะนั ่ งริมฝั ่ งและตั ้ งใจฟัง",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "วันหนึ ่ งคลื ่ นกระซิบถึงปลาโลมาที ่ ก าลังล าบาก   ลีลาจึงตามเสียงไปช่วยมันออกจากอวน   ทะเลขอบคุณเธอด้วยลมอ่อน   ๆ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "และเปลือกหอยส่องประกาย",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Η ψιθυριστή φωνή του ωκεανού",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Σε ένα ήσυχο χωριό δίπλα στη θάλασσα, ζούσε ένα κορίτσι που την έλεγαν Λίλα και μπορούσε να",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "ακούει τον ωκεανό να μιλά. Κάθε πρωί καθόταν στην ακτή και άκουγε προσεκτικά. Μια μέρα, τα κύματα της",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "ψιθύρισαν για ένα δελφίνι σε κίνδυνο. Η Λίλα το βρήκε και το απελευθέρωσε από ένα δίχτυ. Ο ωκεανός την",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "ευχαρίστησε με ένα απαλό αεράκι και λαμπερά κοχύλια.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Story 5:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Title:  The Lost Star",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Story:  One chilly night, a little star fell from the sky and landed in a forest. Confused and scared, the star",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "twinkled softly. A kind owl spotted it and offered shelter in its nest. Together, they searched the skies for the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "star’s place. When the moon noticed the missing light, it shone brighter to guide them back. The star thanked",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "the owl and returned home, never forgetting its forest friend.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Title:   खोया   हआ   तारा",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Story:   एक   ठं डी   रात ,  एक   छोटा   तारा   आकाश   से   दगरकर   जंगल   में   आ   टपका।   वह   घबराया   हआ   था   और   धीरे - धीरे   चमक",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "रहा   था।   एक   दयालु   उल्लू   ने   उसे   देखा   और   अपने   घोंसले   में   शरण   दी।   दोनों   ने   दमलकर   तारों   के    बीच   उसका   स्थान   खोजा।",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "जब   चााँद   ने   देखा   दक   एक   तारा   गायब   है ,  तो   उसने   रास्ता   ददखाने   के    दलए   तेज़ी   से   चमकना   शुरू   दकया।   तारा   उल्लू   को",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "धन्यवाद   कहकर   अपने   घर   लौट   गया ,  और   अपने   नए   दोस्त   को   कभी   नहीं   भूला।",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Title:  عئاضلا مجنلا",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Story:  و ةبيط ةموب هدهاش .فطلب لألأتي أدبو كابترلااو فوخلاب رعش .ةباغلا يف طبهو ءامسلا نم ريغص مجن طقس ،ةدراب ةليل يف هيلع تضرع",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "ىلإ داعو ةموبلا مجنلا ركش .مهيدهيل رثكأ عطس ،ءوضلا ءافتخا رمقلا ظحلا امدنع .مجنلا ناكم نع ءامسلا يف اثحب اًعم .اهشع يف ىوأملا  ،هنطوم",
       "page": 11
     },
     {
       "level": "H3",
-      "text": "Want a Citation for this one? Please see the",
+      "text": "ةباغلا يف هقيدص ىسني نأ نود.",
       "page": 11
     },
     {
       "level": "H3",
-      "text": "following 206 pages.",
+      "text": "Title:   迷路的小星星",
       "page": 11
     },
     {
       "level": "H3",
-      "text": "The Roach story contained a number of",
+      "text": "Story:   一个寒冷的夜晚，一 颗小星星从天空掉进了森林。它迷茫又害怕，微微闪烁着。善良的猫头鹰",
       "page": 11
     },
     {
       "level": "H3",
-      "text": "inconsistencies: some of it seems to be directly",
+      "text": "发现了它，把它带到自己的巢里。它们一起寻找星星原来的位置。月亮发现星星不见了，便发出更亮",
       "page": 11
     },
     {
       "level": "H3",
-      "text": "sourced from Wikipedia- all in all, an entirely",
+      "text": "的光指引它。星星感谢猫头鹰，回到了天上，但永远记得森林里的朋友 。",
       "page": 11
     },
     {
       "level": "H3",
-      "text": "untrustworthy source.",
-      "page": 11
-    },
-    {
-      "level": "H2",
-      "text": "Polybius (video game)",
+      "text": "Title:   迷子の星",
       "page": 11
     },
     {
       "level": "H3",
-      "text": "12",
+      "text": "Story:   寒い夜、小さな星が空から落ちて森に迷い込みました。怖くて震えながら、かすかに輝いて",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "いました。優しいフクロウがそれを見つけて、巣に招き入れました。一緒に空の居場所を探しに行",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "きました。月は光が足りないことに気づき、道を照らしてくれました。星は感謝して空に戻り、フ",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "クロウのことをずっと忘れませんでした。",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Title:   길   잃은   별",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Story:   어느   추운   밤 ,  작은   별   하나가   하늘에서   떨어져   숲속에   도착했어요 .  무섭고   혼란스러웠던   별은",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "조용히   반짝였어요 .  착한   부엉이가   그것을   발견하고   자신의   둥지에   데려갔어요 .  둘은   함께   별의   자리를",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "찾아   하늘을   바라보았어요 .  달이   사라진   빛을   알아차리고   길을   밝혔어요 .  별은   부엉이에게   감사하며",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "하늘로   돌아갔고 ,  숲의   친구를   잊지   않았어요 .",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Потерянная звезда",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Однажды холодной ночью маленькая звезда упала с неба и оказалась в лесу. Она испугалась и",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "тихо мерцала. Добрая сова нашла её и приютила в своём гнезде. Вместе они искали её место на небе.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Когда луна заметила исчезновение звезды, она засияла ярче, чтобы помочь. Звезда поблагодарила сову",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "и вернулась домой, навсегда запомнив своего друга.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Title:  La estrella perdida",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Una noche fría, una pequeña estrella cayó del cielo y aterrizó en un bosque. Asustada, brillaba con",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "timidez. Un búho amable la vio y le ofreció su nido como refugio. Juntos buscaron el lugar de la estrella en el",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "cielo. La luna, al notar su ausencia, brilló más fuerte para guiarlos. La estrella agradeció al búho y volvió al",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "cielo, recordando siempre a su amigo del bosque.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Title:  L’étoile perdue",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "You can imagine the marketing team having their",
+      "text": "Story:  Par une nuit glaciale, une petite étoile tomba du ciel et atterrit dans une forêt. Apeurée, elle scintillait",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "first meeting after the cereal’s release. “We have",
+      "text": "doucement. Une chouette gentille la trouva et lui offrit refuge dans son nid. Ensemble, ils cherchèrent l’endroit",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "good news and bad news. The good news is, your",
+      "text": "de l’étoile dans le ciel. La lune, remarquant l'absence de lumière, brilla plus fort pour les guider. L’étoile",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "latest cereal is very, very popular. The bad news is,",
+      "text": "remercia la chouette et retourna chez elle, gardant le souvenir de son amie.",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "it’s not in any way due to the character you came up",
+      "text": "Title:  Der verlorene Stern",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "with, the box design you slaved over, the costly ad",
+      "text": "Story:  In einer kalten Nacht fiel ein kleiner Stern vom Himmel in einen Wald. Verängstigt funkelte er leise.",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "campaign, or the hours you put in coming up with",
+      "text": "Eine freundliche Eule fand ihn und bot ihm in ihrem Nest Schutz. Gemeinsam suchten sie seinen Platz am",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "free toy ideas. Gentlemen, you should probably sit",
+      "text": "Himmel. Der Mond bemerkte das fehlende Licht und leuchtete heller, um ihnen zu helfen. Der Stern dankte der",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "down....”",
+      "text": "Eule und kehrte zurück, seinen Freund nie vergessend.",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "Franken Berry was very popular when first",
+      "text": "Title:  A Estrela Perdida",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "introduced possibly because the initial batches",
+      "text": "Story:  Numa noite fria, uma pequena estrela caiu do céu e pousou numa floresta. Assustada, ela brilhava",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "of the cereal used a dye that didn’t break down",
+      "text": "suavemente. Uma coruja bondosa a encontrou e ofereceu abrigo em seu ninho. Juntas, procuraram o lugar da",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "in the body, causing many children’s feces to",
+      "text": "estrela no céu. A lua, percebendo sua ausência, brilhou mais forte para guiá-las. A estrela agradeceu e voltou",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "be bright pink, a symptom sometimes referred",
+      "text": "para casa, lembrando sempre da coruja amiga.",
       "page": 12
     },
     {
       "level": "H3",
-      "text": "to as “Frankenberry Stool.”",
+      "text": "Title:   ததாவலந்த   நட்ைத்திரம்",
       "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ஒரு   குளிர்ந்த   இரவில் ,  ஒரு   சிறிய   நட்ைத்திரம்   ைானிலிருந்து   விழுந்து   காட்டில்",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "விழுந்தது .  அது   பயந்து   தமதுைாக   ஒளிர்ந்தது .  ஒரு   இவரை்ைல்   இல்லாத   அலகு   உள்ள",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "ஒரு   ஊவள   அவத   பார்த்து   தன்    கூண் டில்   தங்க   வைத்து   உதவியது .  இருைரும்",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "ைானத்தில்   நட்ைத்திரத்தின்    இடத்வத   மதடினர் .  நிலா ,  அதன்    காணாமற்மபான",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "ஒளிவய   கைனித்து ,  ைழிகாட்ட   ஒளிர்ந்தது .  நட்ைத்திரம்   ஊவளக்கு   நன் றி   கூறி",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "ைானத்வத   மநாக்கி   பறந்தது .",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Title:   పోయిన్   న్క్షద్రతుం",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ఒక   చలలటి   రాద్రతి ,  ఓ   చిన్న    న్క్షద్రతుం   ఆకాశుం   నుుండి   కిుంర   రడిపోయి   అడవ్లో   దూరిుంది .  భయుంతో",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "అది   మురదగా   మెరుస్తు    ఉుండేది .  దానిని   ఒక   ముంచి   గుడలగూబ్   గ్మనిుంచి   తన్   గూడు   ఇచిు ుంది .  వారు   కలిస",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "ఆ   న్క్షద్రతానికి   మళ్లల   ఆకాశుంలో   స్థాన న్ుం   వెతికారు .  చుంద్రుడు   దీనిన    గ్మనిుంచి   మరిుంత   కాుంతిని",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "ద్రరసరిుంచాడు .  న్క్షద్రతుం   కృతజ్ఞతతో   మళ్లల   పైకి   వెళ్లలుంది .",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Title:   হোতরগয়   েোওয়ো   তোরো",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Story:   এক   শীতল   রোগত ,  একটট   ছ োট   তোরো   আকোশ   ছথগক   পগ়ে   বনভূতমগত   পগ়ে   েোয়।   ভগয় ,  ছস   ধীগর   ধীগর   আগলো",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "়েোয়।   একটট   সদয়   ছপাঁচো   তোগক   খুাঁগজ   পোয়   এবং   তনগজর   বোসোয়   আশ্রয়   ছদয়।   তোরো   একসোগথ   তোরো - আকোগশ   তোর",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "সটঠক   স্থোন   খুাঁগজ   ছব়েোয়।   চোাঁদ   লক্ষ্য   কগর   আগলো   কগম   ছ গ    এবং   ছস   আরও   উজ্জ্বল   হগয়   ওগঠ।   তোরো   ছপাঁচোগক",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "ধনযবোদ   জোতনগয়   তফগর   েোয়।",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Title:   ดาวที ่ หายไป",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Story:   คืนหนึ ่ งที ่ หนาวเย็น   ดาวดวงหนึ ่ งตกลงมาจากท้องฟ้ าและตกอยู่ในป่า   มันหวาดกลัวและส่องแสงริบหรี ่",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "นกฮูกใจดีตัวหนึ ่ งเห็นและให้ที ่ พักในรังของมัน   ทั ้ งคู่ช่วยกันหาทางกลับสู่ท้องฟ้ า   เมื ่ อพระจันทร ์สังเกตเห็นแสงที ่ หายไป",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "มันส่องสว่างเพื ่ อชี ้ ทาง   ดาวกล่าวขอบคุณและกลับบ้านโดยไม่ลืมเพื ่ อนในป่า",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Το χαμένο αστέρι",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Ένα κρύο βράδυ, ένα μικρό αστέρι έπεσε από τον ουρανό και προσγειώθηκε σε ένα δάσος. Φοβισμένο,",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "λαμπύριζε σιγανά. Μια καλοσυνάτη κουκουβάγια το είδε και το πήρε στη φωλιά της. Μαζί αναζήτησαν τη",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "θέση του στον ουρανό. Όταν το φεγγάρι είδε το κενό, έλαμψε πιο δυνατά. Το αστέρι ευχαρίστησε την",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "κουκουβάγια και γύρισε σπίτι, κρατώντας τη φιλία αυτή στην καρδιά του.",
+      "page": 13
     },
     {
       "level": "H2",
-      "text": "General Mills monster-themed",
-      "page": 12
-    },
-    {
-      "level": "H2",
-      "text": "breakfast cereals",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "13",
+      "text": "Story 6 :",
       "page": 13
     },
     {
       "level": "H3",
-      "text": "Because if your encyclopedia can’t provide you",
+      "text": "Title:  The Magic Seed",
       "page": 13
     },
     {
       "level": "H3",
-      "text": "with an unsourced claim that it admits is only one of",
+      "text": "Story:  A young girl found a shiny seed while playing in the garden. Curious, she planted it and watered it daily.",
       "page": 13
     },
     {
       "level": "H3",
-      "text": "several theories put forth about the subject, and then",
+      "text": "To her surprise, the plant grew overnight, glowing with colors never seen before. The seed had come from the",
       "page": 13
     },
     {
       "level": "H3",
-      "text": "go on to inform you in the very same sentence that",
+      "text": "stars! Every morning, it sang a gentle tune that made the whole village smile. It reminded everyone that even",
       "page": 13
     },
     {
       "level": "H3",
-      "text": "other unidentified parties disagree with that claim,",
+      "text": "the smallest things can hold the greatest magic.",
       "page": 13
     },
     {
       "level": "H3",
-      "text": "then what the hell good is it?",
+      "text": "Title:   जादुई   बीज",
       "page": 13
     },
     {
       "level": "H3",
-      "text": "Skiffle is often said to have developed from",
+      "text": "Story:   एक   छोटी   लडकी   को   बगीचे   में   खेलते   समय   एक   चमकता   हआ   बीज   दमला।   उसने   उसे   ज़मीन   में   बोया   और   रोज़",
       "page": 13
     },
     {
       "level": "H3",
-      "text": "New Orleans jazz, but this has been disputed.",
-      "page": 13
-    },
-    {
-      "level": "H2",
-      "text": "Skiffle",
+      "text": "पानी   ददया।   अगले   ही   ददन   वह   पौधा   उग   आया   और   रंग - दबरंगी   रोशनी   से   चमकने   लगा।   वह   बीज   तारों   से   आया   था !  हर   सुबह",
       "page": 13
     },
     {
       "level": "H3",
-      "text": "14",
+      "text": "वह   मधुर   धुन   में   गाता ,  दजससे   पूरा   गााँव   मुस्कु रा   उठता।   यह   बताता   था   दक   सबसे   छोटी   चीज़ों   में   भी   जादू    दछपा   हो   सकता   है।",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Title:  ةيرحسلا ةرذبلا",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Story:  جهوتت ةتبن تمن ،يلاتلا حابصلا يف .اًيموي اهتقسو اهتعرز ،لوضفلا عفادب .ةقيدحلا يف بعللا ءانثأ ةعملا ةرذب ةريغص ةاتف تدجو  ناولأب",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "ا رغصأ نأ عيمجلا تملع .مستبت اهلمكأب ةيرقلا لعجي  ً لايمج  ً انحل ينغت تناك ،حابص لك !موجنلا نم ةرذبلا تناك .لبق نم َرُت مل ةيرحس دق ءايشلأ",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "رحسلا مظعأ لمحت.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Title:   神奇的种子",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Story:   一个小女孩在花园里玩耍 时发现了一颗闪亮的种子。她好奇地把它种下，每天浇水。第二天早",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "上，它竟然发芽了，还发出五彩的光芒。原来，这颗种子来自星星！每天早晨，它唱出美妙的旋律，",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "“HP4: Coda or Mistake?” was by far the most",
+      "text": "让全村的人都开心地笑了。大家从中明白，最小的事物也能拥有最大的魔力 。",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "contentious",
+      "text": "Title:   魔法のたね",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "panel",
+      "text": "Story:   小さな女の子が庭で遊んでいると、光る種を見つけました。彼女はそれを植えて、毎日水を",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "at",
+      "text": "あげました。次の日、その種は一晩で成長し、見たことのない色に輝いていました。その種は星か",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "HoPaCon",
+      "text": "ら来たものでした！毎朝、優しい音を奏でて村中を笑顔にしました。小さなものでも大きな魔法を",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "2009,",
+      "text": "秘めているのです。",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "with",
+      "text": "Title:   마법의   씨앗",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "impassioned arguments echoing through the halls of",
+      "text": "Story:   어느   날 ,  어린   소녀가   정원에서   놀다가   반짝이는   씨앗을   발견했어요 .  호기심에   그녀는   그것을",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "the Kansas City International Airport Days Inn.",
+      "text": "심고   매일   물을   주었어요 .  다음   날 ,  그   씨앗은   놀랍게도   하룻밤   사이에   자라나   색색이   빛났어요 .  그것은",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "In 2001, Immature (now going by IMx) starred in",
+      "text": "별에서   온   씨앗이었어요 !  매일   아침 ,  그것은   아름다운   노래를   불러   마을   사람들을   웃게   했어요 .  작지만",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "a direct-to-video sequel, House Party 4: Down",
+      "text": "마법   같은   기적이었어요 .",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "to the Last Minute, which does not feature Kid",
+      "text": "Title:  Волшебное семечко",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "or Play. The film is not considered a part of the",
+      "text": "Story:  Маленькая девочка нашла блестящее семечко, играя в саду. Из любопытства она посадила его и",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "House Party canon amongst fans. [citation needed]",
-      "page": 14
-    },
-    {
-      "level": "H2",
-      "text": "House Party (film)",
+      "text": "каждый день поливала. На следующее утро из него выросло растение, сияющее невиданными красками.",
       "page": 14
     },
     {
       "level": "H3",
-      "text": "15",
+      "text": "Это семя было с небес! Каждое утро оно пело мелодию, которая заставляла всех в деревне улыбаться.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Даже в самом маленьком может быть великая магия.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Title:  La semilla mágica",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Una niña encontró una semilla brillante mientras jugaba en el jardín. Con curiosidad, la plantó y la regó",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "cada día. Para su sorpresa, al día siguiente brotó una planta que brillaba con colores mágicos. ¡La semilla venía",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "de las estrellas! Cada mañana cantaba una dulce melodía que hacía sonreír a todo el pueblo. Recordó a todos",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "que lo más pequeño puede tener la mayor magia.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Title:  La graine magique",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Une jeune fille trouva une graine brillante en jouant dans le jardin. Curieuse, elle la planta et l’arrosa",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "chaque jour. Le lendemain, une plante éclatante de couleurs inconnues poussa. Cette graine venait des étoiles !",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Chaque matin, elle chantait une douce mélodie qui faisait sourire tout le village. Cela rappelait à tous que même",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "les plus petites choses peuvent contenir une grande magie.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Der magische Samen",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "So it would appear that, due to the presence of the",
+      "text": "Story:  Ein junges Mädchen fand beim Spielen im Garten einen glänzenden Samen. Neugierig pflanzte sie ihn",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "anti- drug organization D.A.R.E. in Inglewood, there",
+      "text": "ein und goss ihn täglich. Am nächsten Morgen war dort eine Pflanze mit strahlenden Farben. Der Samen kam",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "are in fact parts of Inglewood that are attempting to",
+      "text": "von den Sternen! Jeden Morgen sang sie ein leises Lied, das alle Dorfbewohner zum Lächeln brachte. So wurde",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "do good. Thus the claim that Inglewood is “always”",
+      "text": "allen klar: Auch das Kleinste kann Magie enthalten.",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "up to no good can be assumed to be false, or at the",
+      "text": "Title:  A Semente Mágica",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "very least a gross exaggeration. Also, many have",
+      "text": "Story:  Uma menina encontrou uma semente brilhante enquanto brincava no jardim. Curiosa, ela plantou e",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "speculated that the so-called “Doctor” Dre never",
+      "text": "regou todos os dias. No dia seguinte, uma planta cresceu e brilhava com cores incríveis. A semente veio das",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "actually received a PhD.",
+      "text": "estrelas! Todas as manhãs, ela cantava uma melodia suave que fazia toda a vila sorrir. Todos perceberam que",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "D.A.R.E. America has its headquarters in",
+      "text": "até as menores coisas podem conter grande magia.",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "Inglewood. Despite this, in the 1996 rap",
+      "text": "Title:   மாயத்திற்குரிய   விவத",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "hit “California Love”, Dr. Dre remarks that",
+      "text": "Story:   ஒரு   சிறிய   தபண்    மதாட்டத்தில்   விவளயாடும்   மபாது   ஒரு   த ாலிக்கும்",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "Inglewood is “always up to no good”.",
-      "page": 15
-    },
-    {
-      "level": "H2",
-      "text": "Inglewood, California",
+      "text": "விவதவய   கண் டாள் .  அவதப்   பயிரிட்டு   தினமும்   தண் ணீர்   ஊற்றினாள் .  அடுத்த",
       "page": 15
     },
     {
       "level": "H3",
-      "text": "16",
+      "text": "நாள் ,  அது   ைண் ண   ஒளியுடன்    ைளர்ந்தது .  அது   விண் மீனிலிருந்து   ைந்த   விவதயாக",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "இருந்தது !  ஒை்தைாரு   காவலயும்   அது   இனிய   இவையுடன்    பாடி ,  கிராமம்   முழுைதும்",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "மகிழ்ை்சிவய   ஏற்படுத்தியது .  சிறிய   விஷயங்களில்   கூட   மந்திரம்   இருக்கலாம் .",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Title:   మాయా   వ్తున్ుం",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ఒక   చిన్న    అమామ యి   తోట్లో   ఆడుతూ   ఒక   మెరుస్తున్న    వ్తున్ుం   కనుగొుంది .  ఆశు ర్య ుంగా ,  అది",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "న్నటిుంది   మరియు   ద్రరతిరోజూ   నీళ్లల   పోసుంది .  మరుసటి   రోజే ,  అది   ర్ుంగుర్ుంగుల   కాుంత్తలతో   పెరిగిుంది .  ఆ",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "వ్తున్ుం   న్క్షద్రతాల   నుుండి   వచిు ుంరట్ !  ద్రరతి   ఉరయుం   అది   మధుర్ుంగా   పాడేది ,  అది   ఊరిని   సుంతోషుంగా",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "మారేు ది .  ఇది   అుంరరినీ   అలరిస్తు  ,  చిన్న దైన్దైన్న   మహా   మాయ   కలిగి   ఉుండవచు ని   చెపు ుంది .",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Title:   জোদুর   বীজ",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Story:   একটট   ছ োট   ছমগয়   বো োগন   ছখলোর   সময়   একটট   উজ্জ্বল   বীজ   খুাঁগজ   ছপল।   ছস   ছকৌতূহলী   হগয়   ছসটট   ছরোপে",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "কগর   এবং   প্রতততদন   জল   তদত।   পগরর   তদনই   একটট   আগলোজ্বলন্ত    ো    ছবতরগয়   এল ,  অদ্ভুত   রগে   রোেোগনো।   ছসই",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "বীজটট   তোরোগদর   কো    ছথগক   এগসত ল !  প্রতত   সকোগলই   ছসই    ো     োন    োইত ,  েো   পুগরো   গ্রোমগক   আনগে   ভতরগয়",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "তদত।   এটট   মগন   কতরগয়   তদত ,  ছ োট   জজতনগসও   জোদু   থোকগত   পোগর।",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Title:   เมล็ดวิเศษ",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Story:   เด็กหญิงคนหนึ ่ งพบเมล็ดที ่ เปล่งประกายขณะเล่นในสวน   ด้วยความอยากรู้   เธอจึงปลูกมันและรดน  ้ าทุกวัน",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "เช้าวันรุ่งขึ ้ น   พืชที ่ งอกขึ ้ นมากลับเปล่งประกายหลากสีอย่างสวยงาม   เมล็ดนั ้ นมาจากดวงดาว !  ทุกเช้า   มันร้องเพลงเบาๆ",
       "page": 16
     },
     {
       "level": "H3",
-      "text": "People who feel that Tyler Perry’s 6’5” stature is",
+      "text": "ท าให้ทั ้ งหมู่บ้านยิ ้ มได้   มันสอนว่าของเล็กน้อยก็อาจซ่อนพลังวิเศษไว้ได้",
       "page": 16
     },
     {
       "level": "H3",
-      "text": "severely diminished by his wearing a wig? The line",
+      "text": "Title:  Ο μαγικός σπόρος",
       "page": 16
     },
     {
       "level": "H3",
-      "text": "in the sand has been drawn.",
+      "text": "Story:  Ένα μικρό κορίτσι βρήκε έναν λαμπερό σπόρο παίζοντας στον κήπο. Από περιέργεια, τον φύτεψε και",
       "page": 16
     },
     {
       "level": "H3",
-      "text": "Another comical aspect is provided by Perry’s",
+      "text": "τον πότιζε κάθε μέρα. Την επόμενη μέρα, φύτρωσε ένα φυτό που έλαμπε με άγνωστα χρώματα. Ο σπόρος ήταν",
       "page": 16
     },
     {
       "level": "H3",
-      "text": "6’- 5” stature, which is in no way diminished by",
+      "text": "από τα αστέρια! Κάθε πρωί τραγουδούσε μια απαλή μελωδία που έκανε όλο το χωριό να χαμογελά. Ήταν μια",
       "page": 16
     },
     {
       "level": "H3",
-      "text": "his wearing a wig.",
+      "text": "υπενθύμιση ότι ακόμα και το μικρότερο πράγμα μπορεί να κρύβει μαγεία.",
       "page": 16
     },
     {
       "level": "H2",
-      "text": "Tyler Perry",
+      "text": "Story 7 :",
       "page": 16
     },
     {
       "level": "H3",
-      "text": "17",
+      "text": "✅  1. English",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Title:  The Village That Shared",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Story:  In a quiet village by the river, people believed in sharing everything. If one family had extra bread, they",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "gave it to their neighbor. Children played together, elders told stories, and everyone helped build homes and",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "grow food. When a traveler came, the villagers offered food and shelter with open arms. The village grew",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "happier because they cared for one another.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "✅  2. Hindi ( हिन्दी )",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Title:   साझा   करने   वाला   गााँव",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Story:   नदी   दकनारे   एक   शांत   गााँव   था ,  जहााँ   लोग   सब   कु छ   बााँटते   थे।   यदद   एक   पररवार   के    पास   अदतररक्त   रोटी   होती ,  तो   वह",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "पडोसी   को   दे   देते।   बच्चे   साथ   खेलते ,  बुजुगग   कहादनयााँ   सुनाते   और   सब   दमलकर   घर   बनाते   व   खेतों   में   काम   करते।   जब   कोई",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "यात्री   आता ,  तो   उसे   खाना   और   ठहरने   की   जगह   देते।   साझा   करने   से   गााँव   खुशहाल   बन   गया।",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "✅  3. Arabic (ةيبرعلا)",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Title:  ةكراشتملا ةيرقلا",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Story:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "،دئاز زبخ ةلئاع ىدل ناك اذإ .ءيش لك ةكراشم ىلع سانلا داتعا ،رهنلا بناجب ةئداه ةيرق يف  نوبعلي لافطلأا .مهناريجل هنوطعي مهنإف",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": ".ىوأملاو ماعطلا هل نومدقي ،رفاسم يتأي امدنعو .ضرلأا ةعارزو تويبلا ءانب يف مهضعب نودعاسي سانلاو ،صصقلا نووري رابكلاو ،اًعم",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "ضعبلا مهضعبب متهي عيمجلا نلأ ةديعس ةيرقلا تحبصأ.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "✅  4. Mandarin Chinese ( 中文  - Simplified)",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Title:   共享的小村庄",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Story:   在一条河 边的宁静村庄里，人们相信分享是最美的事情。如果一家人有多余的面包，就会送给",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "邻居。孩子们一起玩耍，老人讲故事，大家互相帮助建房种地。有旅人来到时，他们会热情地提供食",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "物和住所。这个村庄因相互关爱而更加幸福 。",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "✅  5. Japanese ( 日本語 )",
       "page": 17
     },
     {
       "level": "H3",
-      "text": "Do  not  attempt to affix your bondage partner to this",
+      "text": "Title:   分け合う村",
       "page": 17
     },
     {
       "level": "H3",
-      "text": "question mark using chains and shackles! It is purely",
+      "text": "Story:   川のそばにある静かな村では、人々がすべてを分け合って暮らしていました。パンが余ると",
       "page": 17
     },
     {
       "level": "H3",
-      "text": "metaphorical!",
+      "text": "、隣人に分けてあげます。子どもたちは一緒に遊び、お年寄りは物語を語り、みんなで家を建てた",
       "page": 17
     },
     {
       "level": "H3",
-      "text": "It is possible to buy inflatable bondage beds;",
+      "text": "り畑を耕したりしました。旅人が来ると、温かく迎えました。この村は思いやりでいっぱいでした",
       "page": 17
     },
     {
       "level": "H3",
-      "text": "however, a question mark must remain over",
+      "text": "。",
       "page": 17
     },
     {
       "level": "H3",
-      "text": "how effective they are.",
+      "text": "✅  6. Korean ( 한국어 )",
       "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Title:   나눔의   마을",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Story:   강가의   조용한   마을에는   모든   것을   나누며   사는   사람들이   있었습니다 .  누군가   빵이   남으면",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "이웃에게   나눠주고 ,  아이들은   함께   놀며   어른들은   이야기를   들려줍니다 .  서로   도와   집을   짓고   밭을",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "일궜습니다 .  낯선   사람이   오면   따뜻한   음식과   잠자리를   내어줬습니다 .  그렇게   마을은   사랑으로   가득",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "찼습니다 .",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "✅  7. Russian (Русский)",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Деревня, где все делились",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Story:  В тихой деревушке у реки люди делились всем. Если у одной семьи был лишний хлеб, они",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "отдавали его соседям. Дети играли вместе, старики рассказывали сказки, а все помогали друг другу",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "строить дома и выращивать еду. Когда приходил путник, его встречали с радушием. Деревня была",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "счастлива, потому что там царило добро.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "✅  8. Spanish (Español)",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Title:  El pueblo que compartía",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Story:  En un tranquilo pueblo junto al río, todos compartían lo que tenían. Si una familia tenía pan de sobra, se",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "lo daba al vecino. Los niños jugaban juntos, los mayores contaban historias, y todos ayudaban a construir casas",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "y cultivar. Cuando llegaba un viajero, lo recibían con comida y abrigo. El pueblo era feliz porque todos se",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "cuidaban mutuamente.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "✅  9. French (Français)",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Le village qui partageait",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Dans un village paisible près de la rivière, les gens partageaient tout. Si une famille avait du pain en",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "trop, elle le donnait au voisin. Les enfants jouaient ensemble, les anciens racontaient des histoires et tout le",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "monde construisait et cultivait ensemble. Lorsqu’un voyageur arrivait, on l’accueillait avec chaleur. Le village",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "était heureux grâce à l’entraide.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "✅  10. German (Deutsch)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Das Dorf des Teilens",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Story:  In einem ruhigen Dorf am Fluss glaubten die Menschen an das Teilen. Hatte eine Familie zu viel Brot,",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "gaben sie es dem Nachbarn. Kinder spielten zusammen, Alte erzählten Geschichten, und alle halfen sich beim",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Bauen und Gärtnern. Kam ein Fremder, wurde er freundlich aufgenommen. Das Dorf war glücklich, weil jeder",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "für jeden da war.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "✅  11. Portuguese (Português)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Title:  A vila que compartilhava",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Em uma vila tranquila à beira do rio, todos compartilhavam o que tinham. Se uma família tinha pão de",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "sobra, oferecia ao vizinho. As crianças brincavam juntas, os mais velhos contavam histórias, e todos ajudavam",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "a construir e plantar. Quando um viajante chegava, recebia comida e abrigo. A vila era feliz porque todos",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "cuidavam uns dos outros.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "✅  12. Tamil ( தமிழ் )",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Title:   பகிரும்   கிராமம்",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Story:   நதிக்கவரயில்   அவமந்த   ஒரு   அவமதியான   கிராமத்தில் ,  மக்கள்",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "அவனத்வதயும்   பகிர்ந்துதகாண் டார்கள் .  ஒரு   குடும்பத்திற்கு   அதிகப்படியான",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "தராட்டி   இருந்தால் ,  அைர்கள்   அவத   அயலைாசிக்கு   தகாடுத்தார்கள் .  குழந்வதகள்",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "ஒன் றாக   விவளயாடினார்கள் ,  முதியைர்கள்   கவதகள்   கூறினார்கள் ,  அவனைரும்",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "மைர்ந்து   வீடுகள்   கட்டினார்கள் ,  பயிர்   ைளர்த்தார்கள் .  ஒரு   பயணி   ைந்தால் ,  உணவும்",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "உறங்கும்   இடமும்   ைழங்கினார்கள் .  அந்த   கிராமம்   ைந்மதாஷமாக   இருந்தது ,",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "ஏதனனில்   அங்கு   கருவண   ைாழ்ந்தது .",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "✅  13. Telugu ( తెలుగు )",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Title:   రుంచుకనే   ద్రగాముం",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Story:   న్ది   రకు న్   ఉన్న    ఒక   శుంతమైన్   ద్రగాముంలో   ద్రరజ్లు   అనిన ుంటినీ   రుంచుకుంటూ   జీవ్ుంచేవారు .  ఒక",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "కటుంబానికి   ఎకు వ   ద్రెడ్   ఉుంటే ,  వారు   అదే   తమ   పొరుగువారికి   ఇాు రు .  పలలలు   కలిస   ఆడేవారు ,",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "పెరదలు   కథలు   చెప్పు వారు ,  అుంరరూ   కలస   ఇళ్లను   కటేటవారు ,  రుంట్లు   ాగిుంచేవారు .  ఒక   ద్రరయాణికడు",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "వసేు ,  అతనికి   ఆహార్ుం ,  వ్ద్రశుంతి   ఇవవ డుంలో   ఆలసయ ుం   చేసేవారు   కాు .  ఆ   ద్రగాముం   ఆన్ుంరుంగా   ఉుండేది ,",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "ఎుంుకుంటే   అకు డ   ద్రప్పమ   రుంచుకుంటూ   ఉుండేది .",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "✅  14. Bengali ( বাাংলা )",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Title:   ভো    কগর   ছনওয়োর   গ্রোম",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Story:   নদীর   ধোগর   এক   শোন্ত   গ্রোগমর   মোনুষ   সবতক ু    ভো    কগর   তনত।   এক   পতরবোর   েতদ   অতততরক্ত   রুটট   ছপত ,  তোরো",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "তো   প্রততগবশীগক   তদত।   তশশুরো   একসোগথ   ছখলত ,  বগয়োগজযষ্ঠরো    ল্প   বলত ,  সবোই   তমগল   ের   বোনোত   ও   চোষ   করত।",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "ছকোগনো   ভ্রমেকোরী   এগল   তোরো   খোবোর   ও   আশ্রয়   তদত।   ভোগলোবোসো   ও   সহোনুভূততর   জনয   গ্রোমটট   খুতশগত   ভরপুর   ত ল।",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "✅  15. Thai ( ไทย )",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Title:   หมู่บ้านแห่งการแบ่งปัน",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ในหมู่บ้านเงียบสงบริมแม่น  ้ า   ผู้คนเชื ่ อในการแบ่งปัน   หากครอบครัวใดมีขนมปังเหลือ   พวกเขาจะมอบให้เพื ่ อนบ้าน",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "เด็กๆ   เล่นด้วยกัน   ผู้ใหญ่เล่านิทาน   และทุกคนช่วยกันสร ้างบ้านและปลูกพืช   เมื ่ อมีนักเดินทางมา   หมู่บ้านจะให้ที ่ พักและอาหาร",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "หมู่บ้านจึงเต็มไปด้วยความสุข",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "✅  16. Greek (Ελληνικά)",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Το χωριό που μοιραζόταν",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Σε ένα ήσυχο χωριό δίπλα στο ποτάμι, οι άνθρωποι μοιράζονταν τα πάντα. Αν μια οικογένεια είχε",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "επιπλέον ψωμί, το έδινε στους γείτονες. Τα παιδιά έπαιζαν μαζί, οι ηλικιωμένοι έλεγαν ιστορίες, και όλοι",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "βοηθούσαν στο χτίσιμο και στη γεωργία. Όταν ερχόταν ένας ταξιδιώτης, του πρόσφεραν φαγητό και στέγη. Το",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "χωριό ήταν ευτυχισμένο γιατί υπήρχε αγάπη και φροντίδα παντού.",
+      "page": 19
     },
     {
       "level": "H2",
-      "text": "Bondage bed",
-      "page": 17
-    },
-    {
-      "level": "H3",
-      "text": "18",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "In fact, why did I even write this paragraph? Why am",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "I editing this article in the first place? Where am I?",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "The Count bears a noticeable resemblance",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "to Bela Lugosi as Count Dracula, including a",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "similar accent and oversized, pointed canine",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "teeth (better known as fangs, although Lugosi",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "himself did not bear fangs in the 1931 film),",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "but it would appear that he is different from",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "other vampires, besides sporting a goatee and",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "monocle. For example, most vampires wither in",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "direct sunlight; the Count does not and in fact",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "enjoys being outside. Additionally, the Count",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "does not suck blood, or sleep in a coffin. He",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "also sleeps at night. In many ways, he is more",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "like a regular human than a vampire.",
-      "page": 18
-    },
-    {
-      "level": "H2",
-      "text": "Count von Count",
-      "page": 18
-    },
-    {
-      "level": "H3",
-      "text": "19",
+      "text": "Story 8 :",
       "page": 19
     },
     {
       "level": "H3",
-      "text": "“Blast, this space titanium is expensive! Is there",
+      "text": "Title:  The Tree That Brought Everyone Together",
       "page": 19
     },
     {
       "level": "H3",
-      "text": "anywhere we can substitute in regular titanium?”",
+      "text": "Story:  In the middle of a dusty village stood a grand old tree. Its shade was cool, and its branches wide.",
       "page": 19
     },
     {
       "level": "H3",
-      "text": "“Hmm, how about the neck, that doesn’t seem too",
+      "text": "Children played beneath it, elders rested there, and birds sang every morning. One day, a storm broke houses",
       "page": 19
     },
     {
       "level": "H3",
-      "text": "important....”",
+      "text": "and scared many. But the tree stood strong. People gathered under it, shared food, told stories, and comforted",
       "page": 19
     },
     {
       "level": "H3",
-      "text": "Mechagodzilla’s body was constructed of a",
+      "text": "each other. From that day, the tree became the heart of the village — a symbol of unity, hope, and peace.",
       "page": 19
     },
     {
       "level": "H3",
-      "text": "nearly indestructible alloy known as “Space",
+      "text": "Title:   वह   पेड   दजसने   सबको   एक   दकया",
       "page": 19
     },
     {
       "level": "H3",
-      "text": "Titanium”, was equipped with a staggering",
+      "text": "Story:   एक   सूखे   गााँव   के    बीचोंबीच   एक   दवशाल   पुराना   पेड   था।   उसकी   छाया   ठं डी   थी   और   डादलयााँ   फै ली   हई   थीं।   बच्चे",
       "page": 19
     },
     {
       "level": "H3",
-      "text": "amount of firepower and had rockets for flight.",
+      "text": "उसके    नीचे   खेलते ,  बुज़ुगग   आराम   करते   और   हर   सुबह   पक्षी   गाते।   एक   ददन   तूफान   आया   और   कई   घर   टू ट   गए।   लेदकन   वह",
       "page": 19
     },
     {
       "level": "H3",
-      "text": "Godzilla defeated it by pulling its head off.",
-      "page": 19
-    },
-    {
-      "level": "H2",
-      "text": "Powers and abilities of Godzilla",
+      "text": "पेड   डटा   रहा।   लोग   उसके    नीचे   जमा   हए ,  खाना   बााँटा ,  कहादनयााँ   सुनाईं   और   एक - दू सरे   को   ददलासा   ददया।   उस   ददन   से   पेड",
       "page": 19
     },
     {
       "level": "H3",
-      "text": "20",
+      "text": "गााँव   का   ददल   बन   गया  —  एकता ,  आशा   और   शांदत   का   प्रतीक।",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Title:  عيمجلا تعمج يتلا ةرجشلا",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ،نوحيرتسي رابكلاو ،اهتحت نوبعلي اوناك لافطلأا .ةعساو اهناصغأو دراب اه ّ لظ .ةميدق ةريبك ةرجش كانه تناك ،ةربغم ةيرق طسو يف",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "ت رويطلاو اوور ،ماعطلا اوكراش ،اهتحت سانلا عمتجا .تدمص ةرجشلا نكل .تويبلا ترمدو ةيرقلا ةفصاع تبرض ،مايلأا دحأ يف .حابص لك ينغ",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "ملاسلاو لملأاو ةدحولل اًزمر ،ةيرقلا بلق ةرجشلا تحبصأ ،مويلا كلذ ذنم .ضعبلا مهضعب اوساوو ،صصقلا.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "✅  4. Mandarin Chinese ( 中文  -  简体 )",
       "page": 20
     },
     {
       "level": "H3",
-      "text": "The true victim in the sad, sordid O.J. Simpson",
+      "text": "Title:   把大家 团结在一起的大树",
       "page": 20
     },
     {
       "level": "H3",
-      "text": "saga? James Cameron’s credibility.",
+      "text": "Story:   在一个 尘土飞扬的村庄中间，有一棵古老的大树。它的树荫凉爽，枝叶茂密。 孩子 们在树下玩",
       "page": 20
     },
     {
       "level": "H3",
-      "text": "The studio had suggested O. J. Simpson for the",
+      "text": "耍，老人们在那休息，鸟儿每天早上唱歌。有一天，一场风暴摧毁了房屋，让大家害怕。但那棵树却",
       "page": 20
     },
     {
       "level": "H3",
-      "text": "role of the Terminator, but Cameron did not feel",
+      "text": "依然挺立。人们聚在树下，分享食物，讲述故事，互相安慰。从那天起，那棵树成了村庄的心脏  ——",
       "page": 20
     },
     {
       "level": "H3",
-      "text": "that Simpson would be believable as a killer.",
-      "page": 20
-    },
-    {
-      "level": "H2",
-      "text": "The Terminator",
+      "text": "团结、希望与和平的象征 。",
       "page": 20
     },
     {
       "level": "H3",
-      "text": "21",
+      "text": "Title:   みんなをひとつにした木",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ほこりっぽい村の中央に、大きな古い木が立っていました。木陰は涼しく、枝は広がってい",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "ました。子どもたちはその下で遊び、年寄りは休み、鳥たちは朝ごとに歌いました。ある日、嵐が",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "来て家々が壊れ、人々は怖がりました。でも、その木は倒れませんでした。みんなは木の下に集ま",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "り、食べ物を分け合い、物語を語り合い、支え合いました。それ以来、その木は村の中心となり、",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "絆と希望と平和の象徴となったのです。",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Title:   모두를   하나로   만든   나무",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Story:   먼지가   많은   마을   한가운데 ,  오래된   큰   나무가   서   있었습니다 .  그늘은   시원하고   가지는",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "넓었습니다 .  아이들은   그   아래서   놀고 ,  어르신들은   쉬었으며 ,  새들은   매일   아침   노래했습니다 .  어느   날",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "폭풍이   와서   많은   집들이   무너졌지만 ,  나무는   꿋꿋하게   서   있었습니다 .  사람들은   나무   아래   모여   음식을",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "나누고 ,  이야기를   나누며   서로를   위로했습니다 .  그날부터   나무는   마을의   중심이   되었고 ,  하나됨과   희망 ,",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "평화의   상징이   되었습니다 .",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Дерево, объединившее всех",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Story:  В центре пыльной деревни росло огромное старое дерево. В его тени было прохладно, а ветви",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "раскинулись широко. Дети играли под ним, старики отдыхали, а птицы пели каждое утро. Однажды",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "шторм разрушил дома и испугал людей. Но дерево устояло. Люди собрались под ним, делились едой,",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "рассказывали истории и утешали друг друга. С того дня дерево стало сердцем деревни — символом",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "единства, надежды и мира.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Title:  El árbol que unió a todos",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Story:  En el centro de un pueblo polvoriento había un gran árbol viejo. Su sombra era fresca y sus ramas se",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "extendían ampliamente. Los niños jugaban debajo, los mayores descansaban y los pájaros cantaban por la",
       "page": 21
     },
     {
       "level": "H3",
-      "text": "Which she is attempting to unsuccessfully scratch,",
+      "text": "mañana. Un día, una tormenta destruyó casas y asustó a todos. Pero el árbol se mantuvo firme. La gente se",
       "page": 21
     },
     {
       "level": "H3",
-      "text": "because it itches, because the love bug bit her.",
+      "text": "reunió bajo él, compartió comida, contó historias y se consoló. Desde ese día, el árbol fue el corazón del pueblo",
       "page": 21
     },
     {
       "level": "H3",
-      "text": "The lyrics tell of how the narrator has been",
+      "text": "— símbolo de unidad, esperanza y paz.",
       "page": 21
     },
     {
       "level": "H3",
-      "text": "“bitten by the love bug” and no matter what she",
+      "text": "Title:  L'arbre qui rassemblait tous",
       "page": 21
     },
     {
       "level": "H3",
-      "text": "does, she can’t “scratch it” (the itch created by",
+      "text": "Story:  Au centre d’un village poussiéreux se dressait un vieux grand arbre. Son ombre était fraîche et ses",
       "page": 21
     },
     {
       "level": "H3",
-      "text": "the bite of the love bug).",
+      "text": "branches étendues. Les enfants jouaient dessous, les anciens se reposaient, et les oiseaux chantaient chaque",
       "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "matin. Un jour, une tempête a détruit des maisons. L’arbre, lui, est resté debout. Les habitants se sont réunis",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "sous lui, partageant nourriture et histoires. Depuis ce jour, l’arbre est devenu le cœur du village — symbole",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "d’unité, d’espoir et de paix.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Der Baum, der alle vereinte",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Story:  In der Mitte eines staubigen Dorfes stand ein großer, alter Baum. Sein Schatten war kühl, seine Äste",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "weit ausgebreitet. Kinder spielten darunter, Alte ruhten sich aus, und Vögel sangen jeden Morgen. Eines Tages",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "kam ein Sturm, der Häuser zerstörte. Doch der Baum blieb stehen. Die Dorfbewohner sammelten sich unter",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "ihm, teilten Essen, erzählten Geschichten und trösteten einander. Seitdem war der Baum das Herz des Dorfes",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "— ein Symbol für Einheit, Hoffnung und Frieden.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Title:  A árvore que uniu todos",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Story:  No centro de uma vila empoeirada havia uma árvore antiga e grandiosa. Sua sombra era fresca e seus",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "galhos se estendiam amplamente. As crianças brincavam sob ela, os mais velhos descansavam, e os pássaros",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "cantavam todas as manhãs. Um dia, uma tempestade destruiu casas. A árvore permaneceu firme. As pessoas se",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "reuniram debaixo dela, compartilharam alimentos e histórias. Desde então, a árvore tornou-se o coração da vila",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "— símbolo de união, esperança e paz.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Title:   அவனைவரயும்   இவணத்த   மரம்",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ஒரு   தூசியக்   கிராமத்தின்    வமயத்தில்   ஒரு   பழவமயான   தபரிய   மரம்   இருந்தது .",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "அதன்    நிழல்   குளிர்ந்ததாகவும் ,  கிவளகள்   பரந்தவையாகவும்   இருந்தன .  பிள்வளகள்",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "அதற்க்கீழ்   விவளயாடினார்கள் ,  தபரியைர்கள்   ஓய்தைடுத்தார்கள் ,  பறவைகள்",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "காவல   பாடின .  ஒரு   நாள்   புயல்   வீடுகவள   அழித்தது ,  ஆனால்   மரம்   நிவலத்திருந்தது .",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "மக்கள்   மரத்தின்    கீழ்   கூடி ,  உணவையும்   கவதகவளயும்   பகிர்ந்தனர் .  அந்த   நாள்",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "முதல்   அந்த   மரம்   கிராமத்தின்    இதயமாக   மாறியது  —  ஒற்றுவமயின்  ,",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "நம்பிக்வகயின்  ,  அவமதியின்    சின்னமாக .",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Title:   అుంరరినీ   ఒకు టిగా   చేసన్   చెటట",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ఒక   పొడిచిపోయిన్   ద్రగాముం   మధయ లో   ఒక   ప్పరాతన్   పెరద   చెటట   ఉుండేది .  అది   చలలని   నీడనిచేు ది ,",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "దాని   కమమ లు   వ్ాు ర్ుంగా   ఉుండేవ్ .  పలలలు   దాని   కిుంర   ఆడేవారు ,  వృుధలు   వ్ద్రశుంతి   తీస్తకనేవారు ,",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "రక్షులు   ద్రరతి   ఉరయుం   పాడేవ్ .  ఒకరోజు   త్తపాను   వచిు    చాల   ఇళ్లల   ధవ ుంసుం   చేసుంది .  కానీ   ఆ   చెటట   నిలిచి",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "ఉుండిుంది .  ద్రరజ్లు   దాని   కిుంర   గుమిగూడి ,  తిుండిని   రుంచుకన్నన రు ,  కథలు   చెప్పు కన్నన రు .  ఆ   రోజు",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "నుుంచే   ఆ   చెటట   ద్రగామానికి   హృరయుంగా   మారిుంది  —  ఐకయ త ,  ఆశ ,  శుంతి   చిహన ుంగా .",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Title:    ো টট   েো   সবোইগক   এক   করল",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ধুগলোময়   একটট   গ্রোগমর   মোঝখোগন   একটট   পুরোগনো   ব়ে    ো    ত ল।   এর    োয়ো   ত ল   ঠোন্ডো ,  ডোলপোলো   ত ল",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "তবস্তৃত।   তশশুরো   এর   তনগচ   ছখলত ,  বগয়োগজযষ্ঠরো   তবশ্রোম   তনত ,  পোতখরো   সকোলগবলো    োন    োইত।   একতদন   ঝ়ে   এগস",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "েরবোত়ে   ছভগে   ছফগল।   তকন্তু    ো টট   দোাঁত়েগয়   ত ল।   সবোই    োগ র   তনগচ   জগ়েো   হগয়   খোবোর   ভো    কগর ,   ল্প   বলত   আর",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "এগক   অপরগক   সোন্ত্বনো   তদত।   ছসই   তদন   ছথগকই    ো টট   হগয়   ওগঠ   গ্রোগমর   হৃদয়  —  ঐকয ,  আশো   আর   শোতন্তর",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "প্রতীক।",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Title:   ต้นไม้ที ่ รวมทุกคนไว้ด้วยกัน",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Story:   กลางหมู่บ้านที ่ เต็มไปด้วยฝุ่น   มีต้นไม้เก่าแก่ต้นหนึ ่ งยืนอยู่   ร่มเงาของมันเย็นสบาย   กิ ่ งก้านแผ่กว้าง   เด็ก   ๆ",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "เล่นใต้ต้นไม้   ผู้ใหญ่พักผ่อน   และนกก็ร้องเพลงยามเช้า   วันหนึ ่ งพายุท าลายบ้านเรือน   แต่ต้นไม้ยังมั ่ นคง",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "ผู้คนมารวมตัวกันใต้ต้นไม้   แบ่งปันอาหาร   เล่าเรื ่ องราว   และปลอบใจกัน   ตั ้ งแต่นั ้ นมา   ต้นไม้กลายเป็นหัวใจของหมู่บ้าน",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "เป็นสัญลักษณ์ของความสามัคคี   ความหวัง   และความสงบ",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Το δέντρο που ένωσε τους πάντες",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Στο κέντρο ενός σκονισμένου χωριού στεκόταν ένα μεγάλο παλιό δέντρο. Η σκιά του ήταν δροσερή και",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "τα κλαδιά του εκτείνονταν πλατιά. Τα παιδιά έπαιζαν από κάτω, οι ηλικιωμένοι ξεκουράζονταν, και τα πουλιά",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "τραγουδούσαν κάθε πρωί. Μια μέρα, μια καταιγίδα κατέστρεψε σπίτια. Όμως το δέντρο παρέμεινε σταθερό. Οι",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "άνθρωποι μαζεύτηκαν από κάτω, μοιράστηκαν φαγητό, ιστορίες και παρηγοριά. Από εκείνη την ημέρα, το",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "δέντρο έγινε η καρδιά του χωριού — σύμβολο ενότητας, ελπίδας και ειρήνης.",
+      "page": 22
     },
     {
       "level": "H2",
-      "text": "Love Is Like an Itching in My",
-      "page": 21
-    },
-    {
-      "level": "H2",
-      "text": "Heart",
-      "page": 21
-    },
-    {
-      "level": "H3",
-      "text": "22",
+      "text": "Story 9 :",
       "page": 22
     },
     {
       "level": "H3",
-      "text": "The first paragraph says, “I’m bitter that I’m going to",
+      "text": "Title:  The Girl Who Planted Smiles",
       "page": 22
     },
     {
       "level": "H3",
-      "text": "Penn State DuBois.” The second says, “You know,",
+      "text": "Story:  In a quiet town lived a little girl named Nia who loved making others smile. Instead of flowers, she",
       "page": 22
     },
     {
       "level": "H3",
-      "text": "maybe it’s the right place for me.” We hope that they",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "were both written by the same person, someone",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "who has finally found peace with, if not enthusiasm",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "for, their alma mater.",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "Some say and may agree that the education here",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "resembles that of a High School. Specifically,",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "a professor mentioned this school was not a",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "challenging one. Most go to main campus for",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "degrees and better job opportunities.",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "Penn State DuBois offers several degree",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "programs, has a very high admittance rate, and",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "in general, is very easy to get into if you have",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "taken college prepatory courses, and tried the",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "SAT. They accept people in the lower portions",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "of their class more easily, which makes it a",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "good school to go to if you weren’t in the top 20",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "or 30 percent of your class, and need a shot at",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "college.",
-      "page": 22
-    },
-    {
-      "level": "H2",
-      "text": "Penn State DuBois",
-      "page": 22
-    },
-    {
-      "level": "H3",
-      "text": "23",
+      "text": "planted happiness. Each day, she’d visit lonely neighbors, paint fences with bright colors, and give hugs as",
       "page": 23
     },
     {
       "level": "H3",
-      "text": "Needless to say, he always tried to steer conversation",
+      "text": "gifts. People began smiling more, greeting each other, and helping without asking. Nia’s kindness grew like a",
       "page": 23
     },
     {
       "level": "H3",
-      "text": "towards the “always strong” part of his legacy.",
+      "text": "garden. Over time, the town changed — not with buildings or roads, but with laughter and love blooming in",
       "page": 23
     },
     {
       "level": "H3",
-      "text": "King Christian X, He was the always strong",
+      "text": "every corner.",
       "page": 23
     },
     {
       "level": "H3",
-      "text": "until he surrendered to Germany and Hitler’s",
+      "text": "Title:   वह   लडकी   जो   मुस्कानें   बोती   थी",
       "page": 23
     },
     {
       "level": "H3",
-      "text": "troops moved in over night.",
-      "page": 23
-    },
-    {
-      "level": "H2",
-      "text": "Number the Stars",
+      "text": "Story:   एक   शांत   शहर   में   दनया   नाम   की   एक   छोटी   लडकी   रहती   थी   दजसे   दू सरों   को   मुस्कु राते   देखना   बहत   अच्छा   लगता   था।",
       "page": 23
     },
     {
       "level": "H3",
-      "text": "24",
+      "text": "वह   फू लों   के    बजाय   खुदशयााँ   बोती   थी।   हर   ददन   वह   अके ले   लोगों   से   दमलती ,  दीवारों   को   रंग - दबरंगा   करती   और   गले   लगाकर",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "उपहार   देती।   धीरे - धीरे   लोग   अदधक   मुस्कु राने   लगे ,  एक - दू सरे   का   अदभवादन   करने   लगे।   दनया   की   दयालुता   एक   बगीचे   की",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "तरह   फै लती   गई।   समय   के    साथ ,  शहर   बदल   गया  —  इमारतों   से   नहीं ,  बल्फि   हर   कोने   में   ल्फखली   हाँसी   और   प्यार   से।",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Title:  تاماستبلاا تعرز يتلا ةاتفلا",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Story:   روزت تناك ،موي لك .ةداعسلا تعرز ،روهزلا نم  ً لادب .نومستبي سانلا ىرت نأ بحت تناك اين ىعدُت ةريغص ةاتف تشاع ،ةئداه ةدلب يف",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "سانلا أدب .ايادهك ناضحلأا عزوتو ،راوسلأا نولتو ،نيديحولا ناريجلا  اين ةبيط تمن .بلط نود نودعاسيو ،مهضعب نويحيو ،رثكأ نومستبي",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "ةدلبلا تريغت ،تقولا عمو .ةليمج ةقيدحك— ناكم لك يف نيرشتنملا كحضلاو بحلاب لب ،ينابملاب سيل.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Title:   播种微笑的小女孩",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Story:   在一个安静的小 镇里，有个叫妮娅的小女孩，她喜欢让别人开 心。她不种花，而是种下快 乐。",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "每天，她会探望孤独的邻居，为围栏涂上鲜艳的颜色，拥抱当作礼物。人们开始更多地微笑，互相问",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "候，主动帮助他人。妮娅的善良像花园一样蔓延。渐渐地，小镇改变了 —— 不是因 为建筑，而是因为",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "处处绽放的笑声和爱 。",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Title:   笑顔を植えた少女",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Story:   静かな町に、ニアという名前の小さな女の子が住んでいました。彼女は人を笑顔にするのが",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "大好きでした。花の代わりに、彼女は幸せを植えていました。毎日、寂しい近所の人を訪ね、明る",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "い色でフェンスを塗り、ハグを贈り物として配っていました。人々はもっと笑顔になり、お互いに",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "挨拶し、助け合うようになりました。ニアの優しさは花園のように広がっていきました。町は愛と",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "笑いで満ちあふれ、変わっていきました。",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Title:   웃음을   심은   소녀",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "Pundits who claim that the role of the fourth branch",
+      "text": "Story:   조용한   마을에   니아라는   소녀가   살고   있었어요 .  그녀는   다른   사람들을   웃게   만드는   것을",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "of government has been diminished and neutered",
+      "text": "좋아했어요 .  꽃   대신   행복을   심었지요 .  매일   외로운   이웃을   찾아가고 ,  울타리를   알록달록하게   칠하고 ,",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "conveniently overlook how viciously the press buried",
+      "text": "포옹을   선물처럼   나누었어요 .  사람들은   점점   더   많이   웃고 ,  인사하며   서로를   도왔어요 .  니아의   친절은",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "that first obese elf.",
+      "text": "정원처럼   퍼져갔어요 .  시간이   지나   마을은   변화했어요  —  건물이   아니라 ,  사랑과   웃음이   피어난",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "The Keebler Elves are an important part of",
+      "text": "곳으로요 .",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "the Keebler business. The first elf was created",
+      "text": "Title:  Девочка, которая сажала улыбки",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "obese, but that didn’t go well with the press, so",
+      "text": "Story:  В тихом городке жила девочка по имени Ниа. Она любила дарить радость. Вместо цветов она",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "they made him an anorexic old man instead.",
+      "text": "сажала счастье. Каждый день она навещала одиноких соседей, раскрашивала заборы яркими красками и",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "Other elves were Fryer Tuck (who promoted",
+      "text": "дарила объятия. Люди начали чаще улыбаться, приветствовать друг друга и помогать. Добро Нии росло,",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "“Munch-ems”), Zoot and J.J. (known for",
+      "text": "как сад. Со временем город изменился — не зданиями, а смехом и любовью в каждом уголке.",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "Pizzarias), Ernie’s mother Ma Keebler, young",
+      "text": "Title:  La niña que sembraba sonrisas",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "Elmer Keebler, Buckets (who threw fudge on",
+      "text": "Story:  En un pueblo tranquilo vivía una niña llamada Nia, que adoraba hacer sonreír a los demás. En lugar de",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "the cookies), Fast Eddie (who wrapped the",
+      "text": "flores, sembraba alegría. Cada día visitaba a los vecinos solitarios, pintaba cercas de colores y regalaba abrazos.",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "products), Sam (the peanut butter baker),",
+      "text": "La gente comenzó a sonreír más, saludarse y ayudarse sin pedirlo. La bondad de Nia creció como un jardín.",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "Roger (the jeweler), Doc (the doctor and cookie",
+      "text": "Con el tiempo, el pueblo cambió, no por edificios, sino por el amor y la risa que florecían por todas partes.",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "maker), Zack (the fudge shoppe supervisor),",
+      "text": "Title:  La fille qui semait des sourires",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "Flo (the accountant), Leonardo (the artist),",
+      "text": "Story:  Dans une petite ville calme vivait une fille nommée Nia, qui aimait faire sourire les gens. Au lieu de",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "Elwood (who ran through the dough), Professor,",
+      "text": "fleurs, elle semait du bonheur. Chaque jour, elle rendait visite aux voisins seuls, peignait les clôtures de",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "Edison, Larry and Art.",
-      "page": 24
-    },
-    {
-      "level": "H2",
-      "text": "Keebler Company",
+      "text": "couleurs vives et offrait des câlins comme cadeaux. Peu à peu, les gens souriaient plus, se saluaient et s’aidaient",
       "page": 24
     },
     {
       "level": "H3",
-      "text": "25",
+      "text": "sans demander. La gentillesse de Nia grandissait comme un jardin. Et la ville changea — non par les bâtiments,",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "mais par l’amour et le rire en fleurs partout.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Das Mädchen, das Lächeln pflanzte",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Story:  In einer ruhigen Stadt lebte ein kleines Mädchen namens Nia. Sie liebte es, andere zum Lächeln zu",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "bringen. Statt Blumen pflanzte sie Glück. Jeden Tag besuchte sie einsame Nachbarn, malte bunte Zäune und",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "verschenkte Umarmungen. Die Menschen begannen mehr zu lächeln, einander zu grüßen und halfen sich",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "gegenseitig. Nias Freundlichkeit wuchs wie ein Garten. Mit der Zeit veränderte sich die Stadt — nicht durch",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Gebäude, sondern durch blühende Liebe und Lachen.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Title:  A menina que plantava sorrisos",
       "page": 25
     },
     {
       "level": "H3",
-      "text": "Directed by M. Night Shyamalan.",
+      "text": "Story:  Em uma cidade tranquila vivia uma menina chamada Nia que amava ver os outros sorrindo. Em vez de",
       "page": 25
     },
     {
       "level": "H3",
-      "text": "Fuzzy-Wuzzy can refer to:",
+      "text": "flores, ela plantava felicidade. Todos os dias, ela visitava vizinhos solitários, pintava cercas com cores vivas e",
       "page": 25
     },
     {
       "level": "H3",
-      "text": "Fuzzy Wuzzy (poem), a popular children’s",
+      "text": "distribuía abraços como presentes. As pessoas começaram a sorrir mais, a se cumprimentar e ajudar sem",
       "page": 25
     },
     {
       "level": "H3",
-      "text": "poem/tongue-twister in which a bear is thought",
+      "text": "esperar. A bondade de Nia cresceu como um jardim. Com o tempo, a cidade mudou — não por prédios, mas",
       "page": 25
     },
     {
       "level": "H3",
-      "text": "to be fuzzy, but it turns out he’s not",
-      "page": 25
-    },
-    {
-      "level": "H2",
-      "text": "Fuzzy Wuzzy",
+      "text": "por amor e risos que floresciam em cada canto.",
       "page": 25
     },
     {
       "level": "H3",
-      "text": "26",
+      "text": "Title:   சிரிப்புகவள   நட்ட   சிறுமி",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ஒரு   அவமதியான   நகரில்   நியா   என் ற   சிறுமி   இருந்தாள் .  பிறவர   சிரிக்கை்",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "தைய்ைதில்   மகிழ்ை்சி   அவடைாள் .  பூக்கள்   அல்லாமல்   மகிழ்ை்சிவயமய   நட்டாள் .",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "தினமும்   தனியாக   ைாழும்   அண் வடைர்கவள   ைந்தித்து ,  தைம்வமயான   நிறங்களில்",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "மைலிகவள   எழுதியும் ,  கட்டிப்பிடிப்புகவள   பரிைாகவும்   தகாடுத்தாள் .  மக்கள்   அதிகம்",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "சிரிக்கத்   ததாடங்கினார்கள் .  நியாவின்    நன்வம   ஒரு   பூங்கா   மபால   பரவி   ைளர்ந்தது .",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "அைளால்   நகரம்   மாறியது  —  கட்டிடங்கள்   அல்ல ,  ஆனால்   எங்கும்   மலரும்",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "சிரிப்புகளால் .",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Title:   చిరున్వ్వవ లు   న్నటిన్   చిన్న    పలల",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ఓ   ద్రరశుంతమైన్   రట్టణుంలో   నియా   అనే   చిన్న    అమామ యి   ఉుండేది .  ఆమెక   ఇతరులను",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "న్వ్వ ుంచడుం   ఇషటమైుంది .  పూలక   బ్ులుగా   ఆన్ుందానిన    న్నటేది .  ద్రరతిరోజూ   ఆమె   ఒుంట్రిగా   ఉన్న",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "పొరుగువారిని   కలుస్తకని ,  గోడలను   ర్ుంగులతో   ర్ుంగ్వేస ,  హత్తుకోవడుం   కానుకలుగా   ఇచేు ది .  ద్రరజ్లు",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "ఎకు వగా   న్వవ ాగారు ,  కలస   మాట్లల డాగారు .  నియా   యొకు    రయ   అనేది   తోట్ల   వ్సురిుంచిది .",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "కాలద్రకముంలో   ఆ   రట్టణుం   మారిపోయిుంది  —  కట్టడాలతో   కాు ,  కానీ   ద్రప్పమతో ,  న్వ్వవ లతో   నిుండిపోయిుంది .",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Title:   ছে   ছমগয়টট   হোতস   ছরোপে   করত",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Story:   একটট   শোন্ত   শহগর   তনয়ো   নোগম   একটট   ছমগয়   বোস   করত ,  ছে   অনযগদর   মুগখ   হোতস   ছদখগত   ভোগলোবোসত।   ছস",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "ফু ল   নয় ,  সুখ   ছরোপে   করত।   প্রতততদন   ছস   একো   থোকো   প্রততগবশীগদর   কোগ    ছেত ,  রটেন   কগর   ছদয়োল   আাঁকত ,  আর",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "আতলঙ্গন   তদত   উপহোর   তহগসগব।   ধীগর   ধীগর   মোনুষ   ছবতশ   হোসগত   শুরু   করল ,  এগক   অপরগক   সম্ভোষে   জোনোল ,",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "সোহোেয   করল।   তনয়োর   দয়ো   একটট   বো োগনর   মগতো    ত়েগয়   প়েল।   সমগয়র   সোগথ   শহর   বদগল   ছ ল  —  ভবগনর   জনয",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "নয় ,  ভোগলোবোসো   আর   হোতসর   জনয।",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Title:   เด็กหญิงผู้ปลูกยิ ้ ม",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "One can only imagine the scholar who, upon",
+      "text": "Story:   ในเมืองที ่ เงียบสงบ   มีเด็กหญิงชื ่ อเนียผู้ชอบท าให้ผู้อื ่ นยิ ้ ม   แทนที ่ จะปลูกดอกไม้   เธอปลูกความสุข",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "completing his two-decade-long labor of translating",
+      "text": "ทุกวันเธอจะไปเยี ่ ยมเพื ่ อนบ้านที ่ เหงา   ทาสีรั ้ วด้วยสีสดใส   และกอดแจกเป็นของขวัญ   ผู้คนเริ ่ มยิ ้ มมากขึ ้ น   ทักทายกัน",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "Proust’s  Remembrance of Things Past  into Dog",
+      "text": "ช่วยเหลือกัน   ความเมตตาของเนียเติบโตเหมือนสวน   เมืองนี ้ เปลี ่ ยนไป   ไม่ใช่เพราะตึกใหม่",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "Latin, decides to relax by browsing Wikipedia. He",
+      "text": "แต่เพราะเสียงหัวเราะและความรักที ่ เบ่งบาน",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "stumbles across this entry. Reading and re-reading",
+      "text": "Title:  Το κορίτσι που φύτευε χαμόγελα",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "this sentence, his lip begins to quiver. Out of the",
+      "text": "Story:  Σε μια ήσυχη πόλη ζούσε ένα κοριτσάκι που το έλεγαν Νία. Αγαπούσε να κάνει τους άλλους να",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "corner of his eye, he notes the stack of papers that",
+      "text": "χαμογελούν. Αντί για λουλούδια, φύτευε ευτυχία. Κάθε μέρα επισκεπτόταν μοναχικούς γείτονες, ζωγράφιζε",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "comprise his manuscript as he nervously fumbles",
+      "text": "φράχτες με φωτεινά χρώματα και χάριζε αγκαλιές. Ο κόσμος άρχισε να χαμογελά περισσότερο, να χαιρετά και",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "with a lighter. Then his mom yells at him to go to",
+      "text": "να βοηθά. Η καλοσύνη της Νία μεγάλωσε σαν κήπος. Με τον καιρό, η πόλη άλλαξε — όχι με κτίρια, αλλά με",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "bed; she doesn’t care if he’s fifty-three, in her house",
-      "page": 26
-    },
-    {
-      "level": "H3",
-      "text": "he will abide by her rules, dammit!",
-      "page": 26
-    },
-    {
-      "level": "H3",
-      "text": "Dog Latin is rarely put to a serious purpose.",
+      "text": "γέλια και αγάπη που άνθιζαν παντού.",
       "page": 26
     },
     {
       "level": "H2",
-      "text": "Dog Latin",
+      "text": "Story 10 :",
       "page": 26
     },
     {
       "level": "H3",
-      "text": "27",
+      "text": "Title:  The Boy Who Talked to the Stars",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Story:  There was a curious boy named Ravi who loved looking up at the sky. Every night, he would lie on the",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "grass and whisper his dreams to the stars. He believed they listened. One night, a star twinkled brighter than the",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "rest, and Ravi felt a warmth in his heart. The next day, he helped a friend without being asked. Soon, others did",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "the same. Ravi realized the stars didn't speak in words — they inspired people to shine in their own way.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Title:   वह   लडका   जो   तारों   से   बातें   करता   था",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Story:   रदव   नाम   का   एक   दजज्ञासु   लडका   था   दजसे   आकाश   देखना   बहत   पसंद   था।   हर   रात   वह   घास   पर   लेटकर   अपने   सपने",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "तारों   को   बताता।   उसे   लगता   था   दक   तारे   उसकी   बातें   सुनते   हैं।   एक   रात   एक   तारा   सबसे   तेज   चमका ,  और   रदव   के    ददल   में",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "गमी   सी   महसूस   हई।   अगले   ददन   उसने   दबना   कहे   अपने   दोस्त   की   मदद   की।   धीरे - धीरे ,  दू सरे   भी   ऐसा   करने   लगे।   रदव   ने",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "समझा   दक   तारे   शब्ों   से   नहीं ,  अपने   प्रकाश   से   हमें   प्रेररत   करते   हैं।",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Title:  موجنلا عم ثدحت يذلا يبصلا",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Story:   مهنأ نمؤي ناك .موجنلل هملاحأب سمهيو بشعلا ىلع يقلتسي ناك ،ةليل لك .ءامسلا يف قيدحتلا بحي ،يفار ىعدُي يلوضف دلو كانه ناك",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "سي أدب .هنم بلطُي نأ نود ا ً قيدص دعاس ،يلاتلا مويلا يف .هبلق يف ءفدلاب يفار رعشو ،اهريغ نم رثكأ ةمجن تقلأت ،ةليل تاذ .هيلإ نوعمتنورخلآا",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "ةصاخلا مهتقيرطب قلأتلل سانلا مهلت لب ،تاملكلاب ثدحتت لا موجنلا نأ يفار كردأ .هسفن ءيشلا نولعفي.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Title:   与星星 对话的男孩",
       "page": 27
     },
     {
       "level": "H3",
-      "text": "This explains a lot.",
+      "text": "Story:   有个叫拉 维的好奇男孩，喜欢仰望天空。每天晚上，他躺在草地上，向星星低语他的梦想。他",
       "page": 27
     },
     {
       "level": "H3",
-      "text": "“Friday” co-writer Patrice Wilson explained that",
+      "text": "相信星星会听他讲话。某晚，一颗星特别闪亮，拉维感到心 中暖洋洋的。第二天，他默默帮助了朋友",
       "page": 27
     },
     {
       "level": "H3",
-      "text": "“I wrote the lyrics on a Thursday night going",
+      "text": "。 渐渐地，其他人也开始互相帮助。拉维明白了，星星不需要说话，它们用光亮启发每个人发光 。",
       "page": 27
     },
     {
       "level": "H3",
-      "text": "into a Friday. I was writing different songs all",
+      "text": "Title:   星と話す少年",
       "page": 27
     },
     {
       "level": "H3",
-      "text": "night and was like, ‘Wow, I’ve been up a long",
+      "text": "Story:   空を見上げるのが大好きなラヴィという好奇心旺盛な男の子がいました。毎晩、草の上に寝",
       "page": 27
     },
     {
       "level": "H3",
-      "text": "time and it’s Friday.’ And I was like, wow, it is",
+      "text": "転び、星に夢をささやいていました。彼は星が聞いてくれていると信じていました。ある夜、一つ",
       "page": 27
     },
     {
       "level": "H3",
-      "text": "Friday!”",
+      "text": "の星が他よりも明るく輝き、ラヴィの心は温かくなりました。翌日、彼は誰にも言われず友達を助",
       "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "けました。他の人たちも真似をしました。ラヴィは気づきました。星は言葉ではなく、光で私たち",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "を導いてくれているのだと。",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Title:   별과   이야기한   소년",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Story:   하늘을   바라보는   것을   좋아하는   라비라는   호기심   많은   소년이   있었어요 .  매일   밤   그는   풀밭에",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "누워   별들에게   자신의   꿈을   속삭였어요 .  그는   별들이   그의   이야기를   듣는다고   믿었어요 .  어느   날   밤 ,",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "유난히   밝게   빛나는   별   하나를   보았고 ,  라비는   가슴이   따뜻해졌어요 .  다음   날 ,  그는   말없이   친구를",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "도왔어요 .  곧   다른   사람들도   그렇게   하기   시작했어요 .  라비는   별들이   말   대신   빛으로   사람들을   이끈다는",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "걸   깨달았어요 .",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Мальчик, который говорил со звёздами",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Был один любопытный мальчик по имени Рави. Он обожал смотреть на звёзды. Каждую ночь он",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "ложился на траву и шептал им о своих мечтах. Он верил, что звёзды слушают его. В одну ночь одна",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "звезда засверкала особенно ярко, и Рави почувствовал тепло в сердце. На следующий день он помог",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "другу без просьбы. Скоро другие начали делать то же самое. Рави понял: звёзды не говорят словами,",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "они вдохновляют нас светом.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Title:  El niño que hablaba con las estrellas",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Había un niño curioso llamado Ravi que amaba observar el cielo. Cada noche, se acostaba sobre el",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "césped y le contaba sus sueños a las estrellas. Creía que lo escuchaban. Una noche, una estrella brilló más fuerte",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "que las demás y Ravi sintió calor en su corazón. Al día siguiente, ayudó a un amigo sin que se lo pidieran.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Pronto, todos empezaron a hacerlo. Ravi comprendió que las estrellas no hablan con palabras, sino con",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "inspiración.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Le garçon qui parlait aux étoiles",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Il y avait un garçon curieux nommé Ravi qui aimait observer le ciel. Chaque nuit, il s’allongeait dans",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "l’herbe et murmurait ses rêves aux étoiles. Il croyait qu’elles l’écoutaient. Un soir, une étoile brilla plus que les",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "autres, et Ravi sentit de la chaleur dans son cœur. Le lendemain, il aida un ami spontanément. Bientôt, d’autres",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "firent de même. Ravi comprit que les étoiles ne parlent pas avec des mots, mais avec leur lumière.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Der Junge, der mit den Sternen sprach",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Es war einmal ein neugieriger Junge namens Ravi, der liebte es, in den Himmel zu schauen. Jede Nacht",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "lag er im Gras und flüsterte seine Träume den Sternen zu. Er glaubte, sie hörten zu. Eines Nachts funkelte ein",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Stern heller als die anderen, und Ravi fühlte sich warm ums Herz. Am nächsten Tag half er einem Freund ohne",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Aufforderung. Bald taten es viele andere auch. Ravi erkannte, dass Sterne nicht mit Worten sprechen, sondern",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "mit Licht.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Title:  O menino que falava com as estrelas",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Havia um menino curioso chamado Ravi que adorava olhar para o céu. Todas as noites, ele se deitava na",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "grama e sussurrava seus sonhos às estrelas. Ele acreditava que elas o ouviam. Uma noite, uma estrela brilhou",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "mais forte, e Ravi sentiu calor no coração. No dia seguinte, ajudou um amigo sem que fosse pedido. Logo,",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "outros também começaram a ajudar. Ravi entendeu que as estrelas não falam com palavras, mas com",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "inspiração.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Title:   நட்ைத்திரங்களுடன்    மபசிய   சிறுைன்",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ரவி   என் ற   ஆர்ைமுள்ள   சிறுைன்    இருந்தான்  .  அைன்    ஒை்தைாரு   இரவும்   நிலாவில்",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "படுத்து   நட்ைத்திரங்கவளப்   பார்த்து   தனது   கனவுகவளை்   தைால்ைான்  .  அைன்    அவை",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "மகட்கும்   என்று   நம்பினான்  .  ஒரு   நாள்   இரவில்   ஒரு   நட்ைத்திரம்   அதிகமாக",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "பிரகாசித்தது .  அடுத்த   நாள் ,  ரவி   ஒரு   நண் பவன   அைருக்கு   தைால்லாமமல",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "உதவினான்  .  பிறரும்   அவத   பின் பற்றினார்கள் .  ரவி   உணர்ந்தான்  ,  நட்ைத்திரங்கள்",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "ைார்த்வதகளால்   மபசுைதில்வல  —  அவை   ஒளியால்   நம்வம   ஊக்குவிக்கின் றன .",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Title:   న్క్షద్రతాలతో   మాట్లల డిన్   బాలుడు",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ఒకారి   ర్వ్   అనే   జిజ్ఞఞ సతో   కూడిన్   బాలుడు   ఉుండేవాడు .  అతనికి   ఆకాశనిన    చూస్తు    ఉుండట్ుం",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "చాల   ఇషటుం .  ద్రరతి   రాద్రతి ,  అతను   గ్డిి   మీర   రడుకని   తన్   కలలను   న్క్షద్రతాలక   చెబుతాడు .  న్క్షద్రతాలు",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "వ్నిపస్తున్నన యనుకుంట్లడు .  ఒక   రాద్రతి ,  ఒక   న్క్షద్రతుం   ఎుంతో   ద్రరకాశుంగా   మెరిసుంది .  ర్వ్   హృరయుంలో   ఓ",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "వెచు రన్ుం   అనుభవ్ుంచాడు .  తురరి   రోజు ,  అతను   ఓ   సేన హిత్తడికి   సహాయుం   చేశడు .  ఇుంకో   వారు   కూడా",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "సహాయుం   చేయడుం   ద్రపార్ుంభుంచారు .  న్క్షద్రతాలు   మాట్లతో   కాు ,  వెలుగుతో   మాన్వ్వలను   స్తి రిు",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "రరుాు యని   ర్వ్   తెలుస్తకన్నన డు .",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Title:   ছে   ছ গলটট   তোরোগদর   সগঙ্গ   কথো   বলত",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Story:   একবোর   এক   ছকৌতূহলী   ছ গল   ত ল ,  নোম   রবী।   ছস   আকোশ   ছদখগত   ভোগলোবোসত।   প্রততরোগত   ছস   েোগস   শুগয়",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "তোরোগদর   তনগজর   স্বপ্ন   বলত।   ছস   তবশ্বোস   করত   তোরো   শুনগ ।   এক   রোগত   একটট   তোরো   অনযগদর   ছচগয়   ছবতশ   জ্বলজ্বল",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "করল ,  আর   রবীর   হৃদগয়   উষ্ণতো    ত়েগয়   প়েল।   পরতদন ,  ছস   একজন   বন্ধু গক   চুপচোপ   সোহোেয   করল।   এরপর   সবোই",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "তোই   করগত   শুরু   করল।   রতব   বুঝগত   পোরল ,  তোরো   শগব্দ   কথো   বগল   নো  —  তোরো   আগলো   তদগয়   অনুপ্রোতেত   কগর।",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Title:   เด็กชายที ่ คุยกับดวงดาว",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Story:   ราวีกลายเป็ นเด็กชายที ่ ชอบมองท้องฟ้ า   ทุกคืนเขานอนอยู่บนหญ้าแล้วกระซิบความฝันให้ดวงดาวฟัง",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "เขาเชื ่ อว่าพวกมันได้ยิน   คืนหนึ ่ งดาวดวงหนึ ่ งส่องแสงสว่างกว่าใคร   และราวีรู้สึกอบอุ่นในใจ",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "เช้าวันรุ่งขึ ้ นเขาช่วยเพื ่ อนโดยไม่ต้องบอก   ใครๆ   ก็เริ ่ มท าแบบเดียวกัน   ราวีจึงเข้าใจว่า   ดาวไม่ได้พูดด้วยค าพูด",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "แต่มันให้แรงบันดาลใจ",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Title:  Το αγόρι που μιλούσε στα αστέρια",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Story:  Ήταν ένα περίεργο αγόρι που το έλεγαν Ράβι και του άρεσε να κοιτά τον ουρανό. Κάθε βράδυ ξάπλωνε",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "στο γρασίδι και ψιθύριζε τα όνειρά του στα αστέρια. Πίστευε ότι τον άκουγαν. Ένα βράδυ, ένα αστέρι έλαμψε",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "περισσότερο από τα άλλα και η καρδιά του γέμισε ζεστασιά. Την επόμενη μέρα βοήθησε έναν φίλο χωρίς να",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "του ζητηθεί. Λίγο αργότερα, όλοι το έκαναν. Ο Ράβι κατάλαβε ότι τα αστέρια δεν μιλούν με λόγια — μιλούν",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "με φως.",
+      "page": 29
     },
     {
       "level": "H2",
-      "text": "Friday (Rebecca Black song)",
-      "page": 27
-    },
-    {
-      "level": "H3",
-      "text": "28",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "We’re all tired of our grandfather’s stories of how it",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "was in his day. Candy bars cost a nickel. The whole",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "town had one phone that everyone had to share.",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "Jokes about Sir Rodney’s nose weren’t dampened",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "because it was markedly larger. We get it, Grandpa!!",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "Rodney’s nose used to be markedly larger—",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "about twice the size of most other characters’",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "noses—but in current strips his nose is about",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "the same size as everyone else’s, which",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "dampens jokes about his nose.",
-      "page": 28
-    },
-    {
-      "level": "H2",
-      "text": "The Wizard of Id",
-      "page": 28
-    },
-    {
-      "level": "H3",
-      "text": "29",
+      "text": "Story 11 :",
       "page": 29
     },
     {
       "level": "H3",
-      "text": "Lost in the oppressive wackiness is the depressing",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "fact glossed over in the first sentence: an ostrich,",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "crushed by debt, prostitutes itself into slavery to",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "Mickey Mouse for the meager potential reward of",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "just three hundred dollars.",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "Mickey acquires an ostrich and has to use it to",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "win a race to pay off bills it has run up. In the",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "race is Goofy with a cart which has panels in",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "with an extendable boxing glove to hit people",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "trying to pass and other surprises. Donald",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "Duck is driving a horse drawn bath of water",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "with sprayers. There is an Alaskan sledge with",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "dogs, a vulture with a basket beneath it with",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "a bear pilot, a cart pulled by a seal, a goat in",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "a wheelchair, a goat pulling another cart, a",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "kangaroo, and Mickey on an ostrich. The race",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "is full of “dirty tricks” as contestants try to win",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "the $300 prize.",
-      "page": 29
-    },
-    {
-      "level": "H2",
-      "text": "Wacky Races",
-      "page": 29
-    },
-    {
-      "level": "H3",
-      "text": "30",
-      "page": 30
-    },
-    {
-      "level": "H3",
-      "text": "This claim was tested in an informal poll conducted",
-      "page": 30
-    },
-    {
-      "level": "H3",
-      "text": "on a New York City street corner. It proved that",
-      "page": 30
-    },
-    {
-      "level": "H3",
-      "text": "you will be beaten severely if you ask a bunch of",
-      "page": 30
-    },
-    {
-      "level": "H3",
-      "text": "random men whether they are aware that they have",
-      "page": 30
-    },
-    {
-      "level": "H3",
-      "text": "mammary glands.",
-      "page": 30
-    },
-    {
-      "level": "H3",
-      "text": "Though boys and men have nipples, many",
-      "page": 30
-    },
-    {
-      "level": "H3",
-      "text": "are unaware that they also have mammary",
-      "page": 30
-    },
-    {
-      "level": "H3",
-      "text": "glands [citation needed]",
+      "text": "بلق ةرجشلا تحبصأ ،مويلا كلذ ذنم .ضعبلا مهضعب اوساوو ،صصقلا ملاسلاو لملأاو ةدحولل اًزمر ،ةيرقلا.",
       "page": 30
     },
     {
       "level": "H2",
-      "text": "Male lactation",
-      "page": 30
-    },
-    {
-      "level": "H3",
-      "text": "31",
-      "page": 31
-    },
-    {
-      "level": "H3",
-      "text": "Most find this term pejorative and prefer “semen",
-      "page": 31
-    },
-    {
-      "level": "H3",
-      "text": "enthusiast.”",
-      "page": 31
-    },
-    {
-      "level": "H3",
-      "text": "Jizz Junkie [citation needed]",
-      "page": 31
-    },
-    {
-      "level": "H2",
-      "text": "Terminology of homosexuality",
-      "page": 31
-    },
-    {
-      "level": "H3",
-      "text": "32",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "The early stages of Joanna and Philip’s",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "relationship were quite passionate, and the",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "feeling was mutual. However, as time passed,",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "the two began to realize how different their",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "personalities",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "were. [citation",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "needed]",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "Philip",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "was",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "threatened by his wife’s loyalty to all things",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "Spanish - especially her parents’ politics.",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "Juana did not like the way Philip bossed her",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "around, and his dishonesty bothered her above",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "all. [citation needed]  Philip began looking to bed other",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "women, which infuriated Joanna. She would",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "throw temper tantrums over his fondness for",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "other women. [citation needed]  One lady-in-waiting",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "had her long hair shorn by Joanna herself",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "after she discovered she had been bedded by",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "her husband; Joanna deposited the beautiful",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "tresses on Philip’s pillow as a kind of warning.",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "She also indulged in love potions and spells to",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "keep her husband faithful. [citation needed]",
-      "page": 32
-    },
-    {
-      "level": "H2",
-      "text": "Joanna of Castile",
-      "page": 32
-    },
-    {
-      "level": "H3",
-      "text": "33",
+      "text": "Story 12 :",
       "page": 33
     },
     {
-      "level": "H3",
-      "text": "She argued that  Maladroit  was Weezer’s best album.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "Eventually, Joanna replaced all of her ladies-in-",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "waiting, because they were too pretty, with less",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "attractive ones. [citation needed]  It was at this point",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "that Joanna truly began to exhibit insanity.",
-      "page": 33
-    },
-    {
-      "level": "H3",
-      "text": "34",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "The type of person who would attempt to make",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "moose ice cream is not the type of person you",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "want to offend by suggesting that nobody has ever",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "attempted to make moose ice cream.",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "One Russian moose researcher had also",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "previously tried to make moose cheese, but",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "he stated that, due to the milk’s high protein",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "content, the cheese became hard far too",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "quickly. He was not aware of any attempts to",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "make moose ice cream.",
-      "page": 34
-    },
-    {
       "level": "H2",
-      "text": "Moose milk",
-      "page": 34
-    },
-    {
-      "level": "H3",
-      "text": "35",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "His widow wept at the touching dedication ceremony,",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "before exposing herself (above the waist and below).",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "The event is known for an excessive number",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "of intoxicated fans in attendance, an increasing",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "number of women exposing themselves (above",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "the waist and below), and an excessive amount",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "of profanity from fans.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "Many of the contestants in recent years were",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "sponsored by local strip clubs and those clubs",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "also add to the debauchery in the stands.",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "Local veterinarian, St. George Hunt, and",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "brother of journalist Al Hunt, served as the",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "“official veterinarian” of the event until his death",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "in December 2008. Wing Bowl 2009 will be",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "dedicated to his memory.",
-      "page": 35
-    },
-    {
-      "level": "H2",
-      "text": "Wing Bowl",
-      "page": 35
-    },
-    {
-      "level": "H3",
-      "text": "36",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "A lot of people would say that the Klatooinians are",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "idiots for honoring the man who signed the treaty",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "making them slaves forever. However, consider this:",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "there is truly no way to finish this sentence.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "Barada M’Beg signed a treaty so that",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "Klatooinians will be slaves of the Hutts forever.",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "After defeating Xim, Klatooinians still serve the",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "Hutts. Most of their children are named Barada",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "to honor Barada M’Beg. [citation needed]",
+      "text": "Story 13 :",
       "page": 36
     },
     {
       "level": "H2",
-      "text": "List of Star Wars species (K–O)",
-      "page": 36
-    },
-    {
-      "level": "H3",
-      "text": "37",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "If you’re drunk enough to be testing the claim that",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "a duck’s quack does not echo, the echo may be",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "difficult to hear, due to drunkenness.",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "The claim that a duck’s quack does not echo is",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "false, although the echo may be difficult to hear",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "for humans under some circumstances.",
-      "page": 37
-    },
-    {
-      "level": "H2",
-      "text": "List of common misconceptions",
-      "page": 37
-    },
-    {
-      "level": "H3",
-      "text": "38",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "Discussion question: How would it change the size",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "of the suspense in this scenario if you knew that this",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "child only wanted to get the kitty so that he could eat",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "it?",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "Suspense could however be some small event",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "in a person’s life, such as a child anticipating an",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "answer to a request they’ve made, e.g., “May",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "I get the kitty?”. Therefore, suspense comes in",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "many different sizes, big and small.",
+      "text": "Story 14 :",
       "page": 38
     },
     {
       "level": "H2",
-      "text": "Suspense",
-      "page": 38
-    },
-    {
-      "level": "H3",
-      "text": "39",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "“We like the baby-eating, that’s awesome. But",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "framing someone else for the crime? Not cool.”",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "On 19 August 1980 a nine-week-old girl named",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "Azaria Chamberlain was captured by a dingo",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "near the Uluru and killed. Her mother was",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "suspected and convicted of murder. Four years",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "later she was released from prison when the",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "jacket of the baby was found in a dingo den and",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "the mother was therefore found innocent. This",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "incident caused much outcry for and against",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "the dingoes.",
-      "page": 39
-    },
-    {
-      "level": "H2",
-      "text": "Dingo",
-      "page": 39
-    },
-    {
-      "level": "H3",
-      "text": "40",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "However, nobody argues that these arguments are",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "not a colossal waste of time.",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "Lotsa Heart Elephant",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "Some people argued that he is a female",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "because of his pinkness and his voice. In Care",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "Bears The Movie, Cozy Heart Penguin refers",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "to Lotsa Heart Elephant as a female. Others",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "argue that Lotsa Heart’s gender could have",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "been changed to a male in the later movies and",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "television series.",
-      "page": 40
-    },
-    {
-      "level": "H2",
-      "text": "List of Care Bear Cousins",
-      "page": 40
-    },
-    {
-      "level": "H3",
-      "text": "41",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "Yes, deep-fried balls of cornmeal: a noted “on-the-go”",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "food. The sad thing is, the image of a runner crossing",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "the finish line of the Boston Marathon, arms extended",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "victoriously with a hushpuppy in each hand, used",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "to be one of the most inspiring images in sports.",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "But after Hollywood and Madison Avenue shoved it",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "down our throats for the better part of two decades,",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "it’s slowly become just another hackneyed cliché.",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "They are a hearty, heavy food that can be eaten",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "while active or mobile.",
+      "text": "Story 15 :",
       "page": 41
     },
     {
       "level": "H2",
-      "text": "Hushpuppy",
-      "page": 41
-    },
-    {
-      "level": "H3",
-      "text": "42",
-      "page": 42
-    },
-    {
-      "level": "H3",
-      "text": "The pillow fight scenes suffered immensely from the",
-      "page": 42
-    },
-    {
-      "level": "H3",
-      "text": "change.",
-      "page": 42
-    },
-    {
-      "level": "H3",
-      "text": "The original script was going to be known as",
-      "page": 42
-    },
-    {
-      "level": "H3",
-      "text": "The Dallas Cowboys Cheerleaders on Gilligan’s",
-      "page": 42
-    },
-    {
-      "level": "H3",
-      "text": "Island, but was changed to have the Harlem",
-      "page": 42
-    },
-    {
-      "level": "H3",
-      "text": "Globetrotters star instead. [citation needed]",
-      "page": 42
-    },
-    {
-      "level": "H2",
-      "text": "The Harlem Globetrotters on",
-      "page": 42
-    },
-    {
-      "level": "H2",
-      "text": "Gilligan’s Island",
-      "page": 42
-    },
-    {
-      "level": "H3",
-      "text": "43",
-      "page": 43
-    },
-    {
-      "level": "H3",
-      "text": "When it is, in fact, one of John Philip Sousa’s most",
-      "page": 43
-    },
-    {
-      "level": "H3",
-      "text": "underrated works.",
-      "page": 43
-    },
-    {
-      "level": "H3",
-      "text": "Enormous Penis is often wrongly assumed to",
-      "page": 43
-    },
-    {
-      "level": "H3",
-      "text": "be a Frank Zappa song.",
-      "page": 43
-    },
-    {
-      "level": "H2",
-      "text": "Da Vinci’s Notebook",
-      "page": 43
-    },
-    {
-      "level": "H3",
-      "text": "44",
-      "page": 44
-    },
-    {
-      "level": "H3",
-      "text": "The quotes indicate the sinful, never legally",
-      "page": 44
-    },
-    {
-      "level": "H3",
-      "text": "sanctioned (but oft-consummated) nature of Phil",
-      "page": 44
-    },
-    {
-      "level": "H3",
-      "text": "and Phyllis’s sham marriage.",
-      "page": 44
-    },
-    {
-      "level": "H3",
-      "text": "During the rest of the year, Phil lives in the town",
-      "page": 44
-    },
-    {
-      "level": "H3",
-      "text": "library with his “wife” Phyllis.",
-      "page": 44
-    },
-    {
-      "level": "H2",
-      "text": "Punxsutawney Phil",
-      "page": 44
-    },
-    {
-      "level": "H3",
-      "text": "45",
-      "page": 45
-    },
-    {
-      "level": "H3",
-      "text": "Something Katherine Hepburn’s thrown fish could",
-      "page": 45
-    },
-    {
-      "level": "H3",
-      "text": "never quite get the hang of.",
-      "page": 45
-    },
-    {
-      "level": "H3",
-      "text": "His thrown fish are unique in that they return to",
-      "page": 45
-    },
-    {
-      "level": "H3",
-      "text": "him once thrown.",
+      "text": "Story 16 :",
       "page": 45
     },
     {
       "level": "H2",
-      "text": "Lew Zealand",
-      "page": 45
-    },
-    {
-      "level": "H3",
-      "text": "46",
-      "page": 46
-    },
-    {
-      "level": "H3",
-      "text": "Are you still considering it? We didn’t tell you that",
-      "page": 46
-    },
-    {
-      "level": "H3",
-      "text": "you could stop.",
-      "page": 46
-    },
-    {
-      "level": "H3",
-      "text": "One theory for the term “fan”, for one who",
-      "page": 46
-    },
-    {
-      "level": "H3",
-      "text": "supports a sports team or any public figure, is",
-      "page": 46
-    },
-    {
-      "level": "H3",
-      "text": "that it is likewise derived from this use of “fancy”.",
-      "page": 46
-    },
-    {
-      "level": "H3",
-      "text": "Other theories exist, however, including the",
-      "page": 46
-    },
-    {
-      "level": "H3",
-      "text": "idea that fan is short for fanatic.",
-      "page": 46
-    },
-    {
-      "level": "H3",
-      "text": "Consider too, the expression, “Well, fancy that.”",
-      "page": 46
-    },
-    {
-      "level": "H2",
-      "text": "Animal Fancy",
-      "page": 46
-    },
-    {
-      "level": "H3",
-      "text": "47",
-      "page": 47
-    },
-    {
-      "level": "H3",
-      "text": "Directly contradicting the famous Chekov saying:",
-      "page": 47
-    },
-    {
-      "level": "H3",
-      "text": "“If on the game box you show the Turtles fighting",
-      "page": 47
-    },
-    {
-      "level": "H3",
-      "text": "a Tricieraton, then in the game they should also be",
-      "page": 47
-    },
-    {
-      "level": "H3",
-      "text": "fighting a Triceraton. Also, what is a Triceraton?”",
-      "page": 47
-    },
-    {
-      "level": "H3",
-      "text": "Despite the fact that the cover art features the",
-      "page": 47
-    },
-    {
-      "level": "H3",
-      "text": "Turtles fighting a Triceraton, no Triceratons",
-      "page": 47
-    },
-    {
-      "level": "H3",
-      "text": "appear in the game.",
-      "page": 47
-    },
-    {
-      "level": "H2",
-      "text": "Teenage Mutant Ninja Turtles III:",
-      "page": 47
-    },
-    {
-      "level": "H2",
-      "text": "The Manhattan Project",
-      "page": 47
-    },
-    {
-      "level": "H3",
-      "text": "48",
+      "text": "Story 17 :",
       "page": 48
     },
     {
       "level": "H3",
-      "text": "It’s kind of sad really. Six movies made, millions of",
-      "page": 48
-    },
-    {
-      "level": "H3",
-      "text": "dollars spent, and all anyone remembers from them",
-      "page": 48
-    },
-    {
-      "level": "H3",
-      "text": "is “Weren’t those the movies with the prominent",
-      "page": 48
-    },
-    {
-      "level": "H3",
-      "text": "codpieces?”",
-      "page": 48
-    },
-    {
-      "level": "H3",
-      "text": "Codpieces figure prominently in the six Star",
-      "page": 48
-    },
-    {
-      "level": "H3",
-      "text": "Wars movies.",
-      "page": 48
-    },
-    {
-      "level": "H2",
-      "text": "Codpiece",
-      "page": 48
-    },
-    {
-      "level": "H3",
-      "text": "49",
+      "text": "Story:   نوبعلي لافطلأا .مهناريجل هنوطعي مهنإف ،دئاز زبخ ةلئاع ىدل ناك اذإ .ءيش لك ةكراشم ىلع سانلا داتعا ،رهنلا بناجب ةئداه ةيرق يف",
       "page": 49
     },
     {
       "level": "H3",
-      "text": "Sadly, “assless” chaps do not figure prominently in",
+      "text": "م .ىوأملاو ماعطلا هل نومدقي ،رفاسم يتأي امدنعو .ضرلأا ةعارزو تويبلا ءانب يف مهضعب نودعاسي سانلاو ،صصقلا نووري رابكلاو ،اًع",
       "page": 49
-    },
-    {
-      "level": "H3",
-      "text": "the six Star Wars movies.",
-      "page": 49
-    },
-    {
-      "level": "H3",
-      "text": "Chaps are also popular in fetish fashion and the",
-      "page": 49
-    },
-    {
-      "level": "H3",
-      "text": "leather subculture, where they often are tightly",
-      "page": 49
-    },
-    {
-      "level": "H3",
-      "text": "fitted and worn without jeans or other garments",
-      "page": 49
-    },
-    {
-      "level": "H3",
-      "text": "layered beneath them other than a codpiece.",
-      "page": 49
-    },
-    {
-      "level": "H3",
-      "text": "They can be made of leather, patent leather,",
-      "page": 49
-    },
-    {
-      "level": "H3",
-      "text": "or vinyl and are worn for decoration serving no",
-      "page": 49
-    },
-    {
-      "level": "H3",
-      "text": "protective purpose. Worn in this manner, they",
-      "page": 49
-    },
-    {
-      "level": "H3",
-      "text": "are colloquially referred to as “assless” chaps.",
-      "page": 49
-    },
-    {
-      "level": "H2",
-      "text": "Chaps",
-      "page": 49
-    },
-    {
-      "level": "H3",
-      "text": "50",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "Relentless child bearing, hard drinking, venereal",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "disease, and consumption are four of the five events",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "in the so-called “czarist pentathlon.” (The fifth is of",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "course anti-Semitism.)",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "She died just two years after Peter, at age 43,",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "in St. Petersburg, where she was buried at St.",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "Peter and St. Paul Fortress. It is not known",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "what caused her early demise. Though many",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "postulate twenty years of relentless child",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "bearing, hard drinking, venereal disease, and",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "consumption took their toll on Russia’s first",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "sovereign empress.",
-      "page": 50
-    },
-    {
-      "level": "H2",
-      "text": "Catherine I of Russia",
-      "page": 50
-    },
-    {
-      "level": "H3",
-      "text": "Like what you’ve just read?",
-      "page": 51
-    },
-    {
-      "level": "H3",
-      "text": "The full book has 170 more pages of hilariously",
-      "page": 51
-    },
-    {
-      "level": "H3",
-      "text": "terrible Wikipedia writing!",
-      "page": 51
-    },
-    {
-      "level": "H3",
-      "text": "Get the book or Kindle version at:",
-      "page": 51
-    },
-    {
-      "level": "H3",
-      "text": "citationneededbook.com",
-      "page": 51
-    },
-    {
-      "level": "H3",
-      "text": "And be sure to check out our:",
-      "page": 51
-    },
-    {
-      "level": "H3",
-      "text": "Blog: citationneeded.tumblr.com",
-      "page": 51
-    },
-    {
-      "level": "H3",
-      "text": "Podcast: citationneeded.tumblr.com/thepodcast",
-      "page": 51
-    },
-    {
-      "level": "H3",
-      "text": "(or search “citation needed” on iTunes)",
-      "page": 51
-    },
-    {
-      "level": "H3",
-      "text": "Twitter: twitter.com/cit8tionneeded",
-      "page": 51
-    },
-    {
-      "level": "H3",
-      "text": "Facebook: facebook.com/citationneeded",
-      "page": 51
-    },
-    {
-      "level": "H1",
-      "text": "[  ]",
-      "page": 51
     }
   ]
 }
