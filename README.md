@@ -56,7 +56,11 @@ docker run --rm -v ${PWD}:/app pdf-structure
 - Skips duplicates
 - Full UTF-8 support
 
-## 🤝 Author
+## 🤝 Authors
+**Jayasri Jonnalagadda**  
+📧 [jayasriijonnalagadda@gmail.com](mailto:jayasriijonnalagadda@gmail.com)  
+🔗 [GitHub](https://github.com/jaya-sri6)
+
 **Miryala Sohan Kumar**  
 📧 [sohankumarmiryala@gmail.com](mailto:sohankumarmiryala@gmail.com)  
 🔗 [GitHub](https://github.com/sohan181204)
